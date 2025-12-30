@@ -16,7 +16,10 @@
 
   <h2>Solved.ac Profile</h2>
   <a href="https://solved.ac/fff20ok">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=fff20ok" alt="Solved.ac Badge" /><br><br>
-    <img src="http://mazandi.herokuapp.com/api?handle=fff20ok&theme=dark" alt="Solved.ac Card" />
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=fff20ok" alt="Solved.ac Badge" valign="middle" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://solved.ac/fff20ok">
+    <img src="http://mazandi.herokuapp.com/api?handle=fff20ok&theme=dark" alt="Solved.ac Card" valign="middle" />
   </a>
 </div>
