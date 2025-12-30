@@ -18,10 +18,10 @@
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 
   <h2>🔍 Interest Hacking</h2>
-  <img src="https://img.shields.io/badge/Reversing-FF5722?style=for-the-badge&logo=ghidra&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web_Hacking-4CAF50?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cryptography-9C27B0?style=for-the-badge&logo=1password&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Forensics-00BCD4?style=for-the-badge&logo=osquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reversing-FF5722?style=for-the-badge&logo=binarytree&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_Hacking-4CAF50?style=for-the-badge&logo=google-cloud-security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cryptography-9C27B0?style=for-the-badge&logo=futurelearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Forensics-00BCD4?style=for-the-badge&logo=revealdotjs&logoColor=white"/>
 
   <h2>🖥️ Linux</h2>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
@@ -46,13 +46,10 @@
   <a href="https://dreamhack.io/mypage">
     <img src="https://img.shields.io/badge/Dreamhack-FFC107?style=for-the-badge&logo=target&logoColor=black"/>
   </a>
-
   <a href="https://solved.ac/profile/fff20ok">
     <img src="https://img.shields.io/badge/Baekjoon-0076BA?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
-  
   <img src="https://img.shields.io/badge/moonbird6748-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  
   <a href="https://instagram.com/dangel3190">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
