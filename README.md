@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-  <h2>Solved.ac Profile</h2>
+  <h2>Baekjoon Profile</h2>
   <a href="https://solved.ac/fff20ok">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=fff20ok" alt="Solved.ac Badge" valign="middle" />
   </a>
