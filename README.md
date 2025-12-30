@@ -41,7 +41,7 @@
   </a>
 
   <h2>🔗 Links</h2>
-  <a href="https://dreamhack.io/mypage">
+  <a href="https://dreamhack.io/users/88375">
     <img src="https://img.shields.io/badge/Dreamhack-FFC107?style=for-the-badge&logo=target&logoColor=black"/>
   </a>
   <a href="https://solved.ac/profile/fff20ok">
