@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
   <h2>Linux</h2>
-  <img src="https://img.shields.io/badge/Linux_Master_1st-004482?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
