@@ -21,11 +21,11 @@
 
   <h2>🧑‍💻 Baekjoon Profile</h2>
   <a href="https://www.acmicpc.net/user/fff20ok">
-    <img src="https://mazassumnida.wtf/api/generate_badge?boj=fff20ok" alt="Solved.ac Badge" valign="middle" />
+    <img src="http://mazandi.herokuapp.com/api?handle=fff20ok&theme=dark" onerror="this.src='https://mazassumnida.wtf/api/v2/generate_badge?boj=fff20ok'" valign="middle" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.acmicpc.net/user/fff20ok">
-    <img src="https://mazandi.herokuapp.com/api?handle=fff20ok&theme=dark" alt="Solved.ac Card" valign="middle" />
+    <img src="https://solved.ac-badge.vercel.app/api/v1/badge?user=fff20ok" alt="Solved.ac Badge" valign="middle" />
   </a>
 
   <h2>🔗 Contact & Links</h2>
