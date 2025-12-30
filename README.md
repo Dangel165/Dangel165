@@ -28,7 +28,7 @@
     <img src="https://mazandi.herokuapp.com/api?handle=fff20ok&theme=dark" alt="Solved.ac Card" valign="middle" />
   </a>
 
-  <h2>🔗 Contact & Links</h2>
+  <h2>🔗 Links</h2>
   <a href="https://dreamhack.io/mypage">
     <img src="https://img.shields.io/badge/Dreamhack-FFC107?style=for-the-badge&logo=target&logoColor=black"/>
   </a>
