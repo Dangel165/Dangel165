@@ -20,11 +20,11 @@
   <img src="https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
 
   <h2>🧑‍💻 Baekjoon Profile</h2>
-  <a href="https://solved.ac/fff20ok">
+  <a href="https://solved.ac/profile/fff20ok">
     <img src="https://mazassumnida.wtf/api/generate_badge?boj=fff20ok" alt="Solved.ac Badge" valign="middle" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://solved.ac/fff20ok">
+  <a href="https://solved.ac/profile/fff20ok">
     <img src="https://mazandi.herokuapp.com/api?handle=fff20ok&theme=dark" alt="Solved.ac Card" valign="middle" />
   </a>
 
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Dreamhack-FFC107?style=for-the-badge&logo=target&logoColor=black"/>
   </a>
 
-  <a href="https://solved.ac/fff20ok">
+  <a href="https://solved.ac/profile/fff20ok">
     <img src="https://img.shields.io/badge/Baekjoon-0076BA?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   
