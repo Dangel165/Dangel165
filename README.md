@@ -18,10 +18,10 @@
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 
   <h2>🔍 Interest Hacking</h2>
-  <img src="https://img.shields.io/badge/Reversing-FF5722?style=for-the-badge&logo=codetransfer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reversing-FF5722?style=for-the-badge&logo=ghidra&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web_Hacking-4CAF50?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cryptography-9C27B0?style=for-the-badge&logo=simpleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Forensics-00BCD4?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cryptography-9C27B0?style=for-the-badge&logo=1password&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Forensics-00BCD4?style=for-the-badge&logo=osquery&logoColor=white"/>
 
   <h2>🖥️ Linux</h2>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
