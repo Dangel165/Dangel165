@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reversing-FF5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web_Hacking-4CAF50?style=for-the-badge"/>
 
   <h2>📖 Studies</h2>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -16,10 +18,6 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-
-  <h2>🔍 Interest Hacking</h2>
-  <img src="https://img.shields.io/badge/Reversing-FF5722?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web_Hacking-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cryptography-9C27B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Forensics-00BCD4?style=for-the-badge"/>
 
