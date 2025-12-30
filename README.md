@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&text=Dangel%20GitHub&fontSize=60&fontAlign=50&fontAlignY=35&desc=8-Year%20Python%20Developer%20|%20Cybersecurity%20Enthusiast&descAlign=50&descAlignY=80&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&text=Dangel%20GitHub&fontSize=60&fontAlign=50&fontAlignY=35&desc=Computer%20Virus%Analysis%20|%20Cybersec%20Enthusiast&descAlign=50&descAlignY=80&fontColor=ffffff" />
