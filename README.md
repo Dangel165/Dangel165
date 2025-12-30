@@ -19,9 +19,9 @@
 
   <h2>🔍 Interest Hacking</h2>
   <img src="https://img.shields.io/badge/Reversing-FF5722?style=for-the-badge&logo=ghidra&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web_Hacking-4CAF50?style=for-the-badge&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cryptography-9C27B0?style=for-the-badge&logo=keepassxc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Forensics-00BCD4?style=for-the-badge&logo=spyder&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_Hacking-4CAF50?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cryptography-9C27B0?style=for-the-badge&logo=openssl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Forensics-00BCD4?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
   <h2>🖥️ Linux</h2>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
