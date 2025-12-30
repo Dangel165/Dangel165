@@ -29,7 +29,7 @@
   </a>
 
   <h2>🔗 Contact & Links</h2>
-  <a href="https://dreamhack.io/users/Dangelring">
+  <a href="https://dreamhack.io/mypage">
     <img src="https://img.shields.io/badge/Dreamhack-FFC107?style=for-the-badge&logo=target&logoColor=black"/>
   </a>
   <a href="https://discord.com/users/moonbird6748">
