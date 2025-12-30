@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Dreamhack-FFC107?style=for-the-badge&logo=target&logoColor=black"/>
   </a>
   <a href="https://discord.com/users/moonbird6748">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/moonbird6748-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://instagram.com/dangel3190">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
