@@ -25,8 +25,22 @@
     <img src="https://img.shields.io/badge/Forensics-00BCD4?style=for-the-badge"/>
   </div>
 
+  <h2>🖥️ Linux</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+  </div>
+
+  <h2>📟 Embedded</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  </div>
+
   <h2>🧑‍💻 Baekjoon Profile</h2>
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
     <a href="https://solved.ac/profile/fff20ok">
       <img src="https://mazassumnida.wtf/api/generate_badge?boj=fff20ok" alt="Solved.ac Badge" style="max-width: 100%;" />
     </a>
