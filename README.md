@@ -65,13 +65,6 @@
     </tbody>
   </table>
 
-  <h2>🧰 Tools & IDE</h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  </div>
-
   <h2>📖 Studies</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -84,6 +77,13 @@
     <img src="https://img.shields.io/badge/Cryptography-9C27B0?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Forensics-00BCD4?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Reversing-FF5722?style=for-the-badge"/>
+  </div>
+
+  <h2>🧰 Tools & IDE</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </div>
 
   <h2>🖥️ Linux</h2>
@@ -100,14 +100,18 @@
     <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   </div>
 
-  <h2>🧑‍💻 Baekjoon Profile</h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-    <a href="https://solved.ac/profile/fff20ok">
-      <img src="https://mazassumnida.wtf/api/generate_badge?boj=fff20ok" alt="Solved.ac Badge" style="max-width: 100%;" />
-    </a>
-    <a href="https://solved.ac/profile/fff20ok">
-      <img src="https://mazandi.herokuapp.com/api?handle=fff20ok&theme=dark" alt="Solved.ac Card" style="max-width: 100%;" />
-    </a>
+  <h2>📊 GitHub Stats & Baekjoon Profile</h2>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Yoo99&layout=compact&theme=algolia" alt="Top Langs" />
+
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+      <a href="https://solved.ac/profile/fff20ok">
+        <img src="https://mazassumnida.wtf/api/generate_badge?boj=fff20ok" alt="Solved.ac Badge" style="max-width: 100%;" />
+      </a>
+      <a href="https://solved.ac/profile/fff20ok">
+        <img src="https://mazandi.herokuapp.com/api?handle=fff20ok&theme=dark" alt="Solved.ac Card" style="max-width: 100%;" />
+      </a>
+    </div>
   </div>
 
   <h2>🔗 Links</h2>
