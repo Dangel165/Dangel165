@@ -11,6 +11,29 @@
     <img src="https://img.shields.io/badge/Web_Hacking-4CAF50?style=for-the-badge"/>
   </div>
 
+  <h2>🚀 Projects</h2>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 100%; max-width: 850px; margin-bottom: 20px;">
+    
+    <div style="width: 100%; padding: 15px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; text-align: left;">
+      <h3 style="margin-top: 0; color: #58a6ff;">📌 Project Name 1</h3>
+      <p style="font-size: 0.9em; color: #c9d1d9;">여기에 프로젝트의 상세 내용이나 역할을 간단히 적어주세요.</p>
+      <div style="display: flex; gap: 5px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Malware_Analysis-FF0000?style=flat-square"/>
+      </div>
+    </div>
+
+    <div style="width: 100%; padding: 15px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; text-align: left;">
+      <h3 style="margin-top: 0; color: #58a6ff;">📌 Project Name 2</h3>
+      <p style="font-size: 0.9em; color: #c9d1d9;">사용된 주요 기술 스택과 구현 기능을 설명해 보세요.</p>
+      <div style="display: flex; gap: 5px;">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Reverse_Engineering-FF5722?style=flat-square"/>
+      </div>
+    </div>
+
+  </div>
+
   <h2>📖 Studies</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
