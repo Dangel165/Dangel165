@@ -66,10 +66,10 @@
   </table>
 
   <h2>🧰 Tools & IDE</h2>
-  <div style="display: flex; justify-content: center; gap: 15px; align-items: center;">
-    <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </div>
 
   <h2>📖 Studies</h2>
