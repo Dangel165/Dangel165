@@ -101,7 +101,7 @@
   </div>
 
   <h2>📊 GitHub Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Yoo99&layout=compact&theme=algolia" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangel165&layout=compact&theme=algolia&count_private=true" alt="Top Langs" />
 
   <h2>🧑‍💻 Baekjoon Profile</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
