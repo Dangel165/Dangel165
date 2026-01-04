@@ -23,12 +23,12 @@
     <tbody>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold;">
-          <span style="color: #58a6ff;">☕💻 커피 씨앗컵 시뮬레이터</span><br/>
+          <span style="color: #58a6ff;">☕ 커피 씨앗컵 시뮬레이터</span><br/>
           <span style="color: #8b949e; font-size: 0.8em;">2025년 전주 IP마이스터 대회</span>
         </td>
         <td style="padding: 12px; font-size: 0.9em;">
           • 친환경 커피 씨앗컵 배출 및 관리를 위한 시뮬레이션 환경 구축<br/>
-          • 시스템 알고리즘 최적화 및 사용자 인터페이스 설계
+          • 사용자 인터페이스 설계
         </td>
         <td style="padding: 12px;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
@@ -37,7 +37,7 @@
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold;">
-          <span style="color: #58a6ff;">🤖🏭 산업용 협동로봇 코딩</span><br/>
+          <span style="color: #58a6ff;">🤖 산업용 협동로봇 코딩</span><br/>
           <span style="color: #8b949e; font-size: 0.8em;">전주공고 - 레인보우로보틱스</span>
         </td>
         <td style="padding: 12px; font-size: 0.9em;">
@@ -50,7 +50,7 @@
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold;">
-          <span style="color: #e3b341;">🥈🚗 자율주행 잔디깎기 자동차</span><br/>
+          <span style="color: #e3b341;">🥈 자율주행 잔디깎기 자동차</span><br/>
           <span style="color: #58a6ff; font-size: 0.9em;">전주 사회적 기업 박람회 (2등)</span>
         </td>
         <td style="padding: 12px; font-size: 0.9em;">
@@ -66,10 +66,10 @@
   </table>
 
   <h2>🧰 Tools & IDE</h2>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </div>
 
   <h2>📖 Studies</h2>
