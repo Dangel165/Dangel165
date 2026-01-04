@@ -64,7 +64,13 @@
       </tr>
     </tbody>
   </table>
-  <br/>
+
+  <h2>🧰 Tools</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  </div>
 
   <h2>📖 Studies</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
