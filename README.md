@@ -24,7 +24,7 @@
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold;">
           <span style="color: #58a6ff;">☕ 커피 씨앗컵 시뮬레이터 개발</span><br/>
-          <span style="color: #8b949e; font-size: 0.8em;">2025년 IP마이스터 대회</span>
+          <span style="color: #8b949e; font-size: 0.8em;">2025년 전주 IP마이스터 대회</span>
         </td>
         <td style="padding: 12px; font-size: 0.9em;">
           • 친환경 커피 씨앗컵 배출 및 관리를 위한 시뮬레이션 환경 구축<br/>
