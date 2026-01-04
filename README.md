@@ -100,18 +100,17 @@
     <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   </div>
 
-  <h2>📊 GitHub Stats & Baekjoon Profile</h2>
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Yoo99&layout=compact&theme=algolia" alt="Top Langs" />
+  <h2>📊 GitHub Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Yoo99&layout=compact&theme=algolia" alt="Top Langs" />
 
-    <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-      <a href="https://solved.ac/fff20ok">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fff20ok" alt="Solved.ac Badge" />
-      </a>
-      <a href="https://solved.ac/fff20ok">
-        <img src="https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=algolia" alt="GitHub Stats" />
-      </a>
-    </div>
+  <h2>🧑‍💻 Baekjoon Profile</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+    <a href="https://solved.ac/profile/fff20ok">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fff20ok" alt="Solved.ac Badge" />
+    </a>
+    <a href="https://solved.ac/profile/fff20ok">
+      <img src="https://mazandi.herokuapp.com/api?handle=fff20ok&theme=dark" alt="Solved.ac Card" />
+    </a>
   </div>
 
   <h2>🔗 Links</h2>
