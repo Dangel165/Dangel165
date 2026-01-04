@@ -27,8 +27,8 @@
           <span style="color: #8b949e; font-size: 0.8em;">2025년 전주 IP마이스터 대회</span>
         </td>
         <td style="padding: 12px; font-size: 0.9em;">
-          • 친환경 커피 씨앗컵 배출 및 관리를 위한 시뮬레이션 환경 구축<br/>
-          • 사용자 인터페이스 설계
+          • 친환경 커피 씨앗컵 설명을 위한 시뮬레이션 환경 구축<br/>
+          • 시스템 알고리즘 설계 
         </td>
         <td style="padding: 12px;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
@@ -55,7 +55,7 @@
         </td>
         <td style="padding: 12px; font-size: 0.9em;">
           • 초음파/적외선 센서 기반 장애물 인식 로직 설계<br/>
-          • 임베디드 시스템 최적화 및 안정적인 자율주행 구현
+          • 임베디드 시스템 설계 및 안정적인 자율주행 구현
         </td>
         <td style="padding: 12px;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
@@ -68,7 +68,7 @@
   <h2>🧰 Tools & IDE</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </div>
 
