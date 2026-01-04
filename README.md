@@ -12,27 +12,59 @@
   </div>
 
   <h2>🚀 Projects</h2>
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 100%; max-width: 850px; margin-bottom: 20px;">
-    
-    <div style="width: 100%; padding: 15px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; text-align: left;">
-      <h3 style="margin-top: 0; color: #58a6ff;">📌 Project Name 1</h3>
-      <p style="font-size: 0.9em; color: #c9d1d9;">여기에 프로젝트의 상세 내용이나 역할을 간단히 적어주세요.</p>
-      <div style="display: flex; gap: 5px;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Malware_Analysis-FF0000?style=flat-square"/>
-      </div>
-    </div>
-
-    <div style="width: 100%; padding: 15px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; text-align: left;">
-      <h3 style="margin-top: 0; color: #58a6ff;">📌 Project Name 2</h3>
-      <p style="font-size: 0.9em; color: #c9d1d9;">사용된 주요 기술 스택과 구현 기능을 설명해 보세요.</p>
-      <div style="display: flex; gap: 5px;">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Reverse_Engineering-FF5722?style=flat-square"/>
-      </div>
-    </div>
-
-  </div>
+  <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
+    <thead>
+      <tr style="border-bottom: 2px solid #30363d; background-color: #161b22;">
+        <th style="padding: 12px; width: 35%;">Project Name</th>
+        <th style="padding: 12px; width: 40%;">Description</th>
+        <th style="padding: 12px; width: 25%;">Tech Stack</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 12px; font-weight: bold;">
+          <span style="color: #58a6ff;">☕ 커피 씨앗컵 시뮬레이터 개발</span><br/>
+          <span style="color: #8b949e; font-size: 0.8em;">2025년 IP마이스터 대회</span>
+        </td>
+        <td style="padding: 12px; font-size: 0.9em;">
+          • 친환경 커피 씨앗컵 배출 및 관리를 위한 시뮬레이션 환경 구축<br/>
+          • 시스템 알고리즘 최적화 및 사용자 인터페이스 설계
+        </td>
+        <td style="padding: 12px;">
+          <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/Simulator-FFCA28?style=flat-square"/>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 12px; font-weight: bold;">
+          <span style="color: #58a6ff;">🤖 산업용 협동로봇 코딩</span><br/>
+          <span style="color: #8b949e; font-size: 0.8em;">전주공업고등학교 - 레인보우로보틱스</span>
+        </td>
+        <td style="padding: 12px; font-size: 0.9em;">
+          • 레인보우로보틱스 협동로봇 연동 및 동작 제어 코딩 수행
+        </td>
+        <td style="padding: 12px;">
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/Robot_Coding-4CAF50?style=flat-square"/>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 12px; font-weight: bold;">
+          <span style="color: #e3b341;">🥈 전주 사회적 기업 박람회 (2등)</span><br/>
+          <span style="color: #58a6ff; font-size: 0.9em;">자율주행 잔디깎기 자동차 [코딩 담당]</span>
+        </td>
+        <td style="padding: 12px; font-size: 0.9em;">
+          • 초음파/적외선 센서 기반 장애물 인식 로직 설계<br/>
+          • 임베디드 시스템 최적화 및 안정적인 자율주행 구현
+        </td>
+        <td style="padding: 12px;">
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <br/>
 
   <h2>📖 Studies</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
