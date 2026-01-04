@@ -100,8 +100,10 @@
     <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   </div>
 
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dangel165&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
+  <h2>📊 GitHub Languages</h2>
+  <a href="https://github.com/Dangel165/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangel165&layout=compact&theme=algolia" alt="Top Langs" />
+  </a>
 
   <h2>🧑‍💻 Baekjoon Profile</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
