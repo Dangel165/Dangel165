@@ -101,7 +101,7 @@
   </div>
 
   <h2>📊 GitHub Languages</h2>
-  <a href="https://github.com/Dangel165/github-readme-stats">
+  <a href="https://github.com/Dangel165">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangel165&layout=compact&theme=algolia" alt="Top Langs" />
   </a>
 
