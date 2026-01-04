@@ -31,7 +31,7 @@
           • 시스템 알고리즘 최적화 및 사용자 인터페이스 설계
         </td>
         <td style="padding: 12px;">
-          <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
           <img src="https://img.shields.io/badge/Simulator-FFCA28?style=flat-square"/>
         </td>
       </tr>
@@ -44,7 +44,7 @@
           • 레인보우로보틱스 협동로봇 연동 및 동작 제어 코딩 수행
         </td>
         <td style="padding: 12px;">
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/><br/>
           <img src="https://img.shields.io/badge/Robot_Coding-4CAF50?style=flat-square"/>
         </td>
       </tr>
@@ -58,8 +58,8 @@
           • 임베디드 시스템 최적화 및 안정적인 자율주행 구현
         </td>
         <td style="padding: 12px;">
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br/>
-          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
         </td>
       </tr>
     </tbody>
