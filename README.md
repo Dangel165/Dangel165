@@ -23,12 +23,12 @@
     <tbody>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold;">
-          <span style="color: #ffd700;">🏆 2025 직업계고 창업아이템 공모전 </span><br/>
+          <span style="color: #ffd700;">🏆 2025 직업계고 창업아이템 공모전</span><br/>
           <span style="color: #8b949e; font-size: 0.8em;">전주공업고등학교-메이커 스페이스 (2025.11 ~ 2025.12)</span>
         </td>
         <td style="padding: 12px; font-size: 0.9em;">
           • <b>창업 아이템 공모 분야 전국 1등(최우수) 수상</b><br/>
-          • 자율주행 잔디깍기로 1등수상
+          • 자율주행 잔디깎기로 1등 수상
         </td>
         <td style="padding: 12px;">
           <img src="https://img.shields.io/badge/Award-1st-FFD700?style=flat-square"/><br/>
@@ -42,7 +42,7 @@
         </td>
         <td style="padding: 12px; font-size: 0.9em;">
           • <b>전주 사회적 기업 박람회 경진대회 2등(우수) 수상</b><br/>
-          • 지역사회 문제 해결을 위한 자율주행 잔디깍기 아이디어 활용안 발표
+          • 지역사회 문제 해결을 위한 자율주행 잔디깎기 아이디어 활용안 발표
         </td>
         <td style="padding: 12px;">
           <img src="https://img.shields.io/badge/Award-2nd-C0C0C0?style=flat-square"/><br/>
@@ -58,9 +58,7 @@
           • 창의적 아이디어 시제품 제작 및 기술 창업 역량 강화 활동
         </td>
         <td style="padding: 12px;">
-          <img src="https://img.shields.io/badge/Maker-FF5722?style=flat-square"/><br/>
-          <img src="https://img.shields.io/badge/Startup-00BCD4?style=flat-square"/>
-        </td>
+          </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold;">
