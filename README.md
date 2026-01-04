@@ -106,6 +106,9 @@
 
   <h2>🔗 Links</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <a href="https://blog.naver.com/dangel798">
+      <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+    </a>
     <a href="https://dreamhack.io/users/88375">
       <img src="https://img.shields.io/badge/Dreamhack-FFC107?style=for-the-badge&logo=target&logoColor=black"/>
     </a>
