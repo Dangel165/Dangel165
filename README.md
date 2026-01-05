@@ -104,7 +104,7 @@
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 15px;">
           <b style="color: #58a6ff; font-size: 1.1em;">🦾 레인보우로보틱스 산학 협력</b> (2025.03 ~ 2025.11)<br/>
-          <span style="font-size: 0.9em; color: #8b949e;">산업용 협동로봇 제어 기술 및 로봇 언어 실무 코딩 교육 이수</span>
+          <span style="font-size: 0.9em; color: #8b949e;">산업용 협동로봇 제어 기술 및 로봇 실무 코딩 교육 이수</span>
         </td>
       </tr>
     </tbody>
