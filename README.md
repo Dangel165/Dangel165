@@ -36,7 +36,7 @@
         <td style="padding: 12px; color: #58a6ff;">커피 씨앗컵 시뮬레이터</td>
         <td style="padding: 12px;"><img src="https://img.shields.io/badge/Award-참가상-gray?style=flat-square&logoColor=white"/></td>
         <td style="padding: 12px; text-align: center;">
-          <img src="https://github.com/user-attachments/assets/be7e31f5-b59b-47a3-866f-89d72a8baec6" width="40" style="border-radius: 3px; cursor: pointer;" title="상장 이미지"/>
+          <img src="https://github.com/user-attachments/assets/0fd52b6b-46a8-45a8-bcda-09afb4a63027" width="45" style="border-radius: 3px; cursor: pointer;" title="행사 참가 사진"/>
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
