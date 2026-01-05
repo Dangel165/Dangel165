@@ -64,6 +64,14 @@
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🚜 자율주행 자동차 시뮬레이션</td>
+        <td style="padding: 12px; font-size: 0.9em;">A* 알고리즘을 활용한 최적 경로 탐색 및 장애물 회피 로직 구현</td>
+        <td style="padding: 12px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold; color: #58a6ff;">☕ 커피 씨앗컵 시뮬레이터</td>
         <td style="padding: 12px; font-size: 0.9em;">친환경 커피 씨앗컵 메커니즘 설명을 위한 시뮬레이션 환경 구축</td>
         <td style="padding: 12px;">
