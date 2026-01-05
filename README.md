@@ -32,7 +32,7 @@
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px;">2025.11</td>
-        <td style="padding: 12px;"><b>2025년 전주 IP 마이스터 대회</b><br/><span style="color: #8b949e; font-size: 0.8em;"
+        <td style="padding: 12px;"><b>2025년 전주 IP 마이스터 대회</b><br/><span style="color: #8b949e; font-size: 0.8em;"></span></td>
         <td style="padding: 12px; color: #58a6ff;">커피 씨앗컵 시뮬레이터</td>
         <td style="padding: 12px;"><img src="https://img.shields.io/badge/Award-참가상-gray?style=flat-square&logoColor=white"/></td>
         <td style="padding: 12px; text-align: center;">
