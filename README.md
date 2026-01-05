@@ -29,9 +29,7 @@
         <td style="padding: 12px; color: #58a6ff;">자율주행 잔디깎기</td>
         <td style="padding: 12px;"><img src="https://img.shields.io/badge/1st-최우수-FFD700?style=flat-square&logoColor=white"/></td>
         <td style="padding: 12px; text-align: center;">
-          <a href="https://github.com/user-attachments/files/24437716/2025.pdf" style="text-decoration: none;">
-            <img src="https://github.com/user-attachments/assets/b8c328f7-c2b0-4b83-9187-3be0d3e8ba66" width="45" style="border-radius: 3px; cursor: pointer;" />
-          </a>
+          <img src="https://github.com/user-attachments/assets/b8c328f7-c2b0-4b83-9187-3be0d3e8ba66" width="45" style="border-radius: 3px; cursor: pointer;" />
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
@@ -45,7 +43,7 @@
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px;">2025.10</td>
-        <td style="padding: 12px;"><b>전주 사회적 기업 박람회</b><br/><span style="color: #8b949e; font-size: 0.8em;"></span></td>
+        <td style="padding: 12px;"><b>전주 사회적 기업 박람회 경진대회</b><br/><span style="color: #8b949e; font-size: 0.8em;"></span></td>
         <td style="padding: 12px; color: #58a6ff;">자율주행 잔디깎기</td>
         <td style="padding: 12px;"><img src="https://img.shields.io/badge/2nd-우수-C0C0C0?style=flat-square&logoColor=white"/></td>
         <td style="padding: 12px; text-align: center; font-size: 1.2em;">
