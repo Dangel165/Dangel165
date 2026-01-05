@@ -56,7 +56,7 @@
         <th style="padding: 12px; width: 30%;">Project Name</th>
         <th style="padding: 12px; width: 40%;">Description</th>
         <th style="padding: 12px; width: 20%;">Tech Stack</th>
-        <th style="padding: 12px; width: 10%; text-align: center;">Link</th>
+        <th style="padding: 12px; width: 10%; text-align: center;">Project Link</th>
       </tr>
     </thead>
     <tbody>
