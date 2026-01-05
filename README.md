@@ -34,7 +34,8 @@
         <td style="padding: 12px;">2025.11</td>
         <td style="padding: 12px;"><b>2025년 전주 IP 마이스터</b><br/><span style="color: #8b949e; font-size: 0.8em;">발명 및 지식재산</span></td>
         <td style="padding: 12px; color: #58a6ff;">커피 씨앗컵 시뮬레이터</td>
-        <td style="padding: 12px;"><img src="https://img.shields.io/badge/Award-참가상-gray?style=flat-square&logoColor=white"/></td>
+        <td style="padding: 12px;"><img src="<img width="4000" height="2250" alt="제목 없는 디자인" src="https://github.com/user-attachments/assets/dc0210df-d05d-4c60-8569-a32fe6028b3d" />
+"/></td>
         <td style="padding: 12px; text-align: center;">
           <img src="https://via.placeholder.com/40x25?text=Photo" width="40" style="border-radius: 3px;"/>
         </td>
