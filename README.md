@@ -22,11 +22,19 @@
     </thead>
     <tbody>
       <tr style="border-bottom: 1px solid #30363d;">
-        <td style="padding: 12px;">2025.12</td> <td style="padding: 12px;"><b>2025 직업계고 창업아이템 공모전 (전국)</b><br/><span style="color: #8b949e; font-size: 0.8em;">메이커 스페이스</span></td>
+        <td style="padding: 12px;">2025.12</td>
+        <td style="padding: 12px;">
+          <b>2025 직업계고 창업아이템 공모전 (전국)</b><br/>
+          <span style="color: #8b949e; font-size: 0.8em;">메이커 스페이스 | 자율주행 잔디깎기 아이템</span>
+        </td>
         <td style="padding: 12px;"><img src="https://img.shields.io/badge/1st-최우수-FFD700?style=flat-square&logoColor=white"/></td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
-        <td style="padding: 12px;">2025.10</td> <td style="padding: 12px;"><b>전주 사회적 기업 박람회 경진대회</b><br/><span style="color: #8b949e; font-size: 0.8em;">전주시</span></td>
+        <td style="padding: 12px;">2025.10</td>
+        <td style="padding: 12px;">
+          <b>전주 사회적 기업 박람회 경진대회</b><br/>
+          <span style="color: #8b949e; font-size: 0.8em;">전주시 | 자율주행 잔디깎기 활용안 발표</span>
+        </td>
         <td style="padding: 12px;"><img src="https://img.shields.io/badge/2nd-우수-C0C0C0?style=flat-square&logoColor=white"/></td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
