@@ -11,93 +11,77 @@
     <img src="https://img.shields.io/badge/Web_Hacking-4CAF50?style=for-the-badge"/>
   </div>
 
+  <h2>🏆 Awards</h2>
+  <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
+    <thead>
+      <tr style="border-bottom: 2px solid #30363d; background-color: #161b22;">
+        <th style="padding: 12px; width: 25%;">Date</th>
+        <th style="padding: 12px; width: 50%;">Award Name</th>
+        <th style="padding: 12px; width: 25%;">Result</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 12px;">2025.11 ~ 2025.12</td>
+        <td style="padding: 12px;"><b>2025 직업계고 창업아이템 공모전 (전국)</b><br/><span style="color: #8b949e; font-size: 0.8em;">메이커 스페이스</span></td>
+        <td style="padding: 12px;"><img src="https://img.shields.io/badge/1st-최우수-FFD700?style=flat-square&logoColor=white"/></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 12px;">2025.04 ~ 2025.10</td>
+        <td style="padding: 12px;"><b>전주 사회적 기업 박람회 경진대회</b><br/><span style="color: #8b949e; font-size: 0.8em;">전주시</span></td>
+        <td style="padding: 12px;"><img src="https://img.shields.io/badge/2nd-우수-C0C0C0?style=flat-square&logoColor=white"/></td>
+      </tr>
+    </tbody>
+  </table>
+
   <h2>🚀 Projects</h2>
   <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
     <thead>
       <tr style="border-bottom: 2px solid #30363d; background-color: #161b22;">
         <th style="padding: 12px; width: 35%;">Project Name</th>
-        <th style="padding: 12px; width: 40%;">Description</th>
-        <th style="padding: 12px; width: 25%;">Tech Stack</th>
+        <th style="padding: 12px; width: 45%;">Description</th>
+        <th style="padding: 12px; width: 20%;">Tech Stack</th>
       </tr>
     </thead>
     <tbody>
       <tr style="border-bottom: 1px solid #30363d;">
-        <td style="padding: 12px; font-weight: bold;">
-          <span style="color: #ffd700;">🏆 2025 직업계고 창업아이템 공모전</span><br/>
-          <span style="color: #8b949e; font-size: 0.8em;">전주공업고등학교-메이커 스페이스 (2025.11 ~ 2025.12)</span>
-        </td>
-        <td style="padding: 12px; font-size: 0.9em;">
-          • <b>창업 아이템 공모 분야 전국 1등(최우수) 수상</b><br/>
-          • 자율주행 잔디깎기로 1등 수상
-        </td>
-        <td style="padding: 12px;">
-          <img src="https://img.shields.io/badge/Award-1st-FFD700?style=flat-square"/><br/>
-          <img src="https://img.shields.io/badge/Business-Idea-4CAF50?style=flat-square"/>
-        </td>
-      </tr>
-      <tr style="border-bottom: 1px solid #30363d;">
-        <td style="padding: 12px; font-weight: bold;">
-          <span style="color: #c0c0c0;">🥈 전주 사회적 기업 박람회</span><br/>
-          <span style="color: #8b949e; font-size: 0.8em;">전주시 (2025.04 ~ 2025.10)</span>
-        </td>
-        <td style="padding: 12px; font-size: 0.9em;">
-          • <b>전주 사회적 기업 박람회 경진대회 2등(우수) 수상</b><br/>
-          • 지역사회 문제 해결을 위한 자율주행 잔디깎기 아이디어 활용안 발표
-        </td>
-        <td style="padding: 12px;">
-          <img src="https://img.shields.io/badge/Award-2nd-C0C0C0?style=flat-square"/><br/>
-          <img src="https://img.shields.io/badge/Social_Enterprise-007ACC?style=flat-square"/>
-        </td>
-      </tr>
-      <tr style="border-bottom: 1px solid #30363d;">
-        <td style="padding: 12px; font-weight: bold;">
-          <span style="color: #58a6ff;">🚀 메이커 스페이스 창업 동아리</span><br/>
-          <span style="color: #8b949e; font-size: 0.8em;">전주공업고등학교 (2024.05 ~ 2025.12)</span>
-        </td>
-        <td style="padding: 12px; font-size: 0.9em;">
-          • 창의적 아이디어 시제품 제작 및 기술 창업 역량 강화 활동
-        </td>
-        <td style="padding: 12px;">
-          </td>
-      </tr>
-      <tr style="border-bottom: 1px solid #30363d;">
-        <td style="padding: 12px; font-weight: bold;">
-          <span style="color: #58a6ff;">🚜 자율주행 잔디깎기 자동차</span><br/>
-          <span style="color: #8b949e; font-size: 0.8em;">프로젝트 개발 (2025.04 ~ 2025.10)</span>
-        </td>
-        <td style="padding: 12px; font-size: 0.9em;">
-          • 초음파/적외선 센서 기반 장애물 인식 로직 설계<br/>
-          • 임베디드 시스템 설계 및 안정적인 자율주행 구현
-        </td>
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🚜 자율주행 잔디깎기 자동차</td>
+        <td style="padding: 12px; font-size: 0.9em;">초음파/적외선 센서 기반 장애물 인식 및 임베디드 시스템 설계</td>
         <td style="padding: 12px;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
           <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
-        <td style="padding: 12px; font-weight: bold;">
-          <span style="color: #58a6ff;">☕ 커피 씨앗컵 시뮬레이터</span><br/>
-          <span style="color: #8b949e; font-size: 0.8em;">2025년 전주 IP마이스터 대회 (2025.11 ~ 2025.11)</span>
-        </td>
-        <td style="padding: 12px; font-size: 0.9em;">
-          • 친환경 커피 씨앗컵 설명을 위한 시뮬레이션 환경 구축
-        </td>
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">☕ 커피 씨앗컵 시뮬레이터</td>
+        <td style="padding: 12px; font-size: 0.9em;">친환경 커피 씨앗컵 메커니즘 설명을 위한 시뮬레이션 환경 구축</td>
         <td style="padding: 12px;">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
-          <img src="https://img.shields.io/badge/Simulator-FFCA28?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
-        <td style="padding: 12px; font-weight: bold;">
-          <span style="color: #58a6ff;">🤖 산업용 협동로봇 코딩</span><br/>
-          <span style="color: #8b949e; font-size: 0.8em;">전주공고 - 레인보우로보틱스 (2025.03 ~ 2025.11)</span>
-        </td>
-        <td style="padding: 12px; font-size: 0.9em;">
-          • 레인보우로보틱스 협동로봇 연동 및 동작 제어 코딩 수행
-        </td>
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🤖 산업용 협동로봇 코딩</td>
+        <td style="padding: 12px; font-size: 0.9em;">레인보우로보틱스 협동로봇 연동 및 동작 제어 시나리오 구현</td>
         <td style="padding: 12px;">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/><br/>
-          <img src="https://img.shields.io/badge/Robot_Coding-4CAF50?style=flat-square"/>
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>🏢 Organizations</h2>
+  <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
+    <tbody>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 15px;">
+          <b style="color: #58a6ff; font-size: 1.1em;">🚀 메이커 스페이스 창업 동아리</b> (2024.05 ~ 2025.12)<br/>
+          <span style="font-size: 0.9em; color: #8b949e;">전주공업고등학교 | 창의적 아이디어 시제품 제작 및 기술 창업 역량 강화 활동</span>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 15px;">
+          <b style="color: #58a6ff; font-size: 1.1em;">🦾 레인보우로보틱스 산학 협력</b> (2025.03 ~ 2025.11)<br/>
+          <span style="font-size: 0.9em; color: #8b949e;">산업용 협동로봇 제어 기술 및 로봇 언어 실무 코딩 교육 이수</span>
         </td>
       </tr>
     </tbody>
