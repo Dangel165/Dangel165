@@ -47,9 +47,10 @@
   <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
     <thead>
       <tr style="border-bottom: 2px solid #30363d; background-color: #161b22;">
-        <th style="padding: 12px; width: 35%;">Project Name</th>
-        <th style="padding: 12px; width: 45%;">Description</th>
+        <th style="padding: 12px; width: 30%;">Project Name</th>
+        <th style="padding: 12px; width: 40%;">Description</th>
         <th style="padding: 12px; width: 20%;">Tech Stack</th>
+        <th style="padding: 12px; width: 10%; text-align: center;">Link</th>
       </tr>
     </thead>
     <tbody>
@@ -60,12 +61,16 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
           <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
         </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold; color: #58a6ff;">☕ 커피 씨앗컵 시뮬레이터</td>
         <td style="padding: 12px; font-size: 0.9em;">친환경 커피 씨앗컵 메커니즘 설명을 위한 시뮬레이션 환경 구축</td>
         <td style="padding: 12px;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
+          <a href="https://github.com/Dangel165/Biodegradable-Coffee-Cup-Seed-Growth-Simulation-Hackathon-competition-" style="text-decoration: none;">☕</a>
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
@@ -74,6 +79,7 @@
         <td style="padding: 12px;">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
         </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
       </tr>
     </tbody>
   </table>
