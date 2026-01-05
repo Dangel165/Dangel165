@@ -16,20 +16,23 @@
     <thead>
       <tr style="border-bottom: 2px solid #30363d; background-color: #161b22;">
         <th style="padding: 12px; width: 15%;">Date</th>
-        <th style="padding: 12px; width: 40%;">Award Name</th>
-        <th style="padding: 12px; width: 30%;">Item</th> <th style="padding: 12px; width: 15%;">Result</th>
+        <th style="padding: 12px; width: 35%;">Award Name</th>
+        <th style="padding: 12px; width: 35%;">Item</th>
+        <th style="padding: 12px; width: 15%;">Result</th>
       </tr>
     </thead>
     <tbody>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px;">2025.12</td>
         <td style="padding: 12px;"><b>2025 직업계고 창업아이템 공모전 (전국)</b><br/><span style="color: #8b949e; font-size: 0.8em;">메이커 스페이스</span></td>
-        <td style="padding: 12px; color: #58a6ff;">자율주행 잔디깎기</td> <td style="padding: 12px;"><img src="https://img.shields.io/badge/1st-최우수-FFD700?style=flat-square&logoColor=white"/></td>
+        <td style="padding: 12px; color: #58a6ff;">자율주행 잔디깎기</td>
+        <td style="padding: 12px;"><img src="https://img.shields.io/badge/1st-최우수-FFD700?style=flat-square&logoColor=white"/></td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px;">2025.10</td>
         <td style="padding: 12px;"><b>전주 사회적 기업 박람회 경진대회</b><br/><span style="color: #8b949e; font-size: 0.8em;">전주시</span></td>
-        <td style="padding: 12px; color: #58a6ff;">자율주행 잔디깎기</td> <td style="padding: 12px;"><img src="https://img.shields.io/badge/2nd-우수-C0C0C0?style=flat-square&logoColor=white"/></td>
+        <td style="padding: 12px; color: #58a6ff;">자율주행 잔디깎기</td>
+        <td style="padding: 12px;"><img src="https://img.shields.io/badge/2nd-우수-C0C0C0?style=flat-square&logoColor=white"/></td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px;">2025</td>
@@ -102,6 +105,30 @@
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Cryptography-9C27B0?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Forensics-00BCD4?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Reversing-FF5722?style=for-the-badge"/>
+  </div>
+
+  <h2>🧰 Tools </h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  </div>
+
+  <h2>🖥️ Linux</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+  </div>
+
+  <h2>📟 Embedded</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   </div>
 
   <h2>📊 GitHub Languages</h2>
@@ -121,9 +148,18 @@
 
   <h2>🔗 Links</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-    <a href="https://blog.naver.com/dangel798"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
-    <a href="https://dreamhack.io/users/88375"><img src="https://img.shields.io/badge/Dreamhack-FFC107?style=for-the-badge&logo=target&logoColor=black"/></a>
-    <a href="https://solved.ac/profile/fff20ok"><img src="https://img.shields.io/badge/Baekjoon-0076BA?style=for-the-badge&logo=notion&logoColor=white"/></a>
-    <a href="https://instagram.com/dangel3190"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://blog.naver.com/dangel798">
+      <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+    </a>
+    <a href="https://dreamhack.io/users/88375">
+      <img src="https://img.shields.io/badge/Dreamhack-FFC107?style=for-the-badge&logo=target&logoColor=black"/>
+    </a>
+    <a href="https://solved.ac/profile/fff20ok">
+      <img src="https://img.shields.io/badge/Baekjoon-0076BA?style=for-the-badge&logo=notion&logoColor=white"/>
+    </a>
+    <img src="https://img.shields.io/badge/moonbird6748-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <a href="https://instagram.com/dangel3190">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
   </div>
 </div>
