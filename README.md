@@ -16,10 +16,10 @@
     <thead>
       <tr style="border-bottom: 2px solid #30363d; background-color: #161b22;">
         <th style="padding: 12px; width: 12%;">Date</th>
-        <th style="padding: 12px; width: 33%;">Award Name</th>
-        <th style="padding: 12px; width: 30%;">Item</th>
+        <th style="padding: 12px; width: 30%;">Award Name</th>
+        <th style="padding: 12px; width: 28%;">Item</th>
         <th style="padding: 12px; width: 15%;">Result</th>
-        <th style="padding: 12px; width: 10%; text-align: center;">News</th>
+        <th style="padding: 12px; width: 15%; text-align: center;">Evidence</th>
       </tr>
     </thead>
     <tbody>
@@ -29,6 +29,15 @@
         <td style="padding: 12px; color: #58a6ff;">자율주행 잔디깎기</td>
         <td style="padding: 12px;"><img src="https://img.shields.io/badge/1st-최우수-FFD700?style=flat-square&logoColor=white"/></td>
         <td style="padding: 12px; text-align: center;">-</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 12px;">2025.11</td>
+        <td style="padding: 12px;"><b>2025년 전주 IP 마이스터</b><br/><span style="color: #8b949e; font-size: 0.8em;">발명 및 지식재산</span></td>
+        <td style="padding: 12px; color: #58a6ff;">커피 씨앗컵 시뮬레이터</td>
+        <td style="padding: 12px;"><img src="https://img.shields.io/badge/Award-참가상-gray?style=flat-square&logoColor=white"/></td>
+        <td style="padding: 12px; text-align: center;">
+          <img src="https://via.placeholder.com/40x25?text=Photo" width="40" style="border-radius: 3px;"/>
+        </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px;">2025.10</td>
