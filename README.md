@@ -25,7 +25,7 @@
     <tbody>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px;">2025.12</td>
-        <td style="padding: 12px;"><b>2025 직업계고 창업아이템 공모전 (전국)</b><br/><span style="color: #8b949e; font-size: 0.8em;">메이커 스페이스</span></td>
+        <td style="padding: 12px;"><b>2025 직업계고 창업아이템 공모전 (전국)</b><br/><span style="color: #8b949e; font-size: 0.8em;">FUN FUN한 녀석들</span></td>
         <td style="padding: 12px; color: #58a6ff;">자율주행 잔디깎기</td>
         <td style="padding: 12px;"><img src="https://img.shields.io/badge/1st-최우수-FFD700?style=flat-square&logoColor=white"/></td>
         <td style="padding: 12px; text-align: center;">
