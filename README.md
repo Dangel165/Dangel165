@@ -69,7 +69,9 @@
         <td style="padding: 12px;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         </td>
-        <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
+          <a href="https://github.com/Dangel165/AI-autonomous-driving-simulator" style="text-decoration: none;">🚗</a>
+        </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold; color: #58a6ff;">☕ 커피 씨앗컵 시뮬레이터</td>
