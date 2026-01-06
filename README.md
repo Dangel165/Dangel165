@@ -130,7 +130,7 @@
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 15px;">
-          <b style="color: #58a6ff; font-size: 1.1em;">💻 전주교육대학교 영재교육원</b> (2018.03 ~ 2018.10)<br/>
+          <b style="color: #58a6ff; font-size: 1.1em;">💻 전주교육대학교 영재교육원 수료</b> (2018.03 ~ 2018.10)<br/>
           <span style="font-size: 0.9em; color: #8b949e;">소프트웨어 영재 과정 | 기초 프로그래밍 및 알고리즘 사고력 함양</span>
         </td>
       </tr>
