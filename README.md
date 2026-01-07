@@ -108,7 +108,9 @@
         <td style="padding: 12px;">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
         </td>
-        <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
+          <a href="https://github.com/Dangel165/Rainbow-Robotics-Collaborative-Robot-Coding" style="text-decoration: none;">🦾</a>
+        </td>
       </tr>
     </tbody>
   </table>
