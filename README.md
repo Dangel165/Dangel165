@@ -64,9 +64,10 @@
   <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
     <thead>
       <tr style="border-bottom: 2px solid #30363d; background-color: #161b22;">
-        <th style="padding: 12px; width: 30%;">Project Name</th>
-        <th style="padding: 12px; width: 40%;">Description</th>
+        <th style="padding: 12px; width: 25%;">Project Name</th>
+        <th style="padding: 12px; width: 35%;">Description</th>
         <th style="padding: 12px; width: 20%;">Tech Stack</th>
+        <th style="padding: 12px; width: 10%; text-align: center;">CODE</th>
         <th style="padding: 12px; width: 10%; text-align: center;">Project Link</th>
       </tr>
     </thead>
@@ -79,7 +80,10 @@
           <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
         </td>
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">
-          <a href="https://blog.naver.com/dangel798/224139940765" style="text-decoration: none;">🚜</a>
+          <a href="https://github.com/Dangel165/Raspberry-Pi-autonomous-lawn-mower" style="text-decoration: none;" title="GitHub">📁</a>
+        </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
+          <a href="https://blog.naver.com/dangel798/224139940765" style="text-decoration: none;" title="Blog">📝</a>
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
@@ -89,8 +93,9 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         </td>
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">
-          <a href="https://github.com/Dangel165/AI-autonomous-driving-simulator" style="text-decoration: none;">🚗</a>
+          <a href="https://github.com/Dangel165/AI-autonomous-driving-simulator" style="text-decoration: none;" title="GitHub">📁</a>
         </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold; color: #58a6ff;">☕ 커피 씨앗컵 시뮬레이터</td>
@@ -99,8 +104,9 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         </td>
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">
-          <a href="https://github.com/Dangel165/Biodegradable-Coffee-Cup-Seed-Growth-Simulation-Hackathon-competition-" style="text-decoration: none;">☕</a>
+          <a href="https://github.com/Dangel165/Biodegradable-Coffee-Cup-Seed-Growth-Simulation-Hackathon-competition-" style="text-decoration: none;" title="GitHub">📁</a>
         </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🤖 산업용 협동로봇 코딩</td>
@@ -109,8 +115,9 @@
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
         </td>
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">
-          <a href="https://github.com/Dangel165/Rainbow-Robotics-Collaborative-Robot-Coding" style="text-decoration: none;">🦾</a>
+          <a href="https://github.com/Dangel165/Rainbow-Robotics-Collaborative-Robot-Coding" style="text-decoration: none;" title="GitHub">📁</a>
         </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
       </tr>
     </tbody>
   </table>
