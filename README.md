@@ -65,10 +65,10 @@
     <thead>
       <tr style="border-bottom: 2px solid #30363d; background-color: #161b22;">
         <th style="padding: 12px; width: 25%;">Project Name</th>
-        <th style="padding: 12px; width: 35%;">Description</th>
+        <th style="padding: 12px; width: 35%;">Short Summary</th>
         <th style="padding: 12px; width: 20%;">Tech Stack</th>
         <th style="padding: 12px; width: 10%; text-align: center;">CODE</th>
-        <th style="padding: 12px; width: 10%; text-align: center;">Project Link</th>
+        <th style="padding: 12px; width: 10%; text-align: center;">Project Description</th>
       </tr>
     </thead>
     <tbody>
