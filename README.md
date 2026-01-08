@@ -79,7 +79,8 @@
           <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
         </td>
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">
-          <a href="https://github.com/Dangel165/Raspberry-Pi-autonomous-lawn-mower" style="text-decoration: none;">🚗</a>
+          <a href="https://github.com/Dangel165/Raspberry-Pi-autonomous-lawn-mower" style="text-decoration: none;" title="GitHub Code">🚗</a>
+          <a href="https://blog.naver.com/dangel798/224139940765" style="text-decoration: none;" title="Project Blog">📝</a>
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
