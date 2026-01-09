@@ -191,7 +191,7 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dangel165&layout=compact&theme=algolia" alt="Top Langs" />
   </a>
 
-  <h2>🧑‍💻 Baekjoon Profile</h2>
+  <h2>💻 Baekjoon Profile</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
     <a href="https://solved.ac/profile/fff20ok">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fff20ok" alt="Solved.ac Badge" />
