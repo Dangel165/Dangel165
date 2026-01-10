@@ -133,7 +133,7 @@
     </thead>
     <tbody>
       <tr style="border-bottom: 1px solid #30363d;">
-        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">[C# 악성코드 분석] 마인크래프트 복돌 위장 랜섬웨어 (1편)</td>
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">[C# 악성코드 분석] 직접 제작한 마인크래프트 복돌 위장 랜섬웨어 (1편)</td>
         <td style="padding: 12px; font-size: 0.9em;">사회 공학 기법을 활용하여 정품 런처로 위장한 랜섬웨어의 초기 침투부터 파괴 과정을 분석했습니다.</td>
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">
           <a href="https://blog.naver.com/dangel798/224137239220" style="text-decoration: none;" title="Part 1">📝</a>
