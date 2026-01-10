@@ -122,6 +122,26 @@
     </tbody>
   </table>
 
+  <h2>📂 Portfolio</h2>
+  <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
+    <thead>
+      <tr style="border-bottom: 2px solid #30363d; background-color: #161b22;">
+        <th style="padding: 12px; width: 40%;">Portfolio Name</th>
+        <th style="padding: 12px; width: 45%;">Description</th>
+        <th style="padding: 12px; width: 15%; text-align: center;">Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">📄 2025 기술 포트폴리오 (통합본)</td>
+        <td style="padding: 12px; font-size: 0.9em;">보안분석 및 임베디드 프로젝트 전체 과정을 요약한 기술서</td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
+          <a href="#" style="text-decoration: none;" title="Portfolio">📎</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
   <h2>🏢 Organizations</h2>
   <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
     <tbody>
