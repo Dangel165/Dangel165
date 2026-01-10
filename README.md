@@ -137,15 +137,19 @@
   <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
     <thead>
       <tr style="border-bottom: 2px solid #30363d; background-color: #161b22;">
-        <th style="padding: 12px; width: 40%;">Title</th>
-        <th style="padding: 12px; width: 45%;">Summary</th>
-        <th style="padding: 12px; width: 15%; text-align: center;">View</th>
+        <th style="padding: 12px; width: 30%;">Title</th>
+        <th style="padding: 12px; width: 40%;">Summary</th>
+        <th style="padding: 12px; width: 18%;">Tech Stack</th>
+        <th style="padding: 12px; width: 12%; text-align: center;">View</th>
       </tr>
     </thead>
     <tbody>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold; color: #58a6ff;">[C# 악성코드 분석] 직접만든 Discord 데이터 추출 및 RSA-2048 하이브리드 암호화</td>
         <td style="padding: 12px; font-size: 0.9em;">디스코드 토큰 추출 기능과 AES-RSA 하이브리드 키 관리 체계를 구현하며 실제 랜섬웨어의 동작 원리를 분석했습니다.</td>
+        <td style="padding: 12px;">
+          <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        </td>
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">
           <a href="https://blog.naver.com/dangel798/224134443176" style="text-decoration: none;" title="Analysis Report">📝</a>
         </td>
@@ -153,6 +157,9 @@
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold; color: #58a6ff;">[C# 악성코드 분석] 직접만든 마인크래프트 복돌 위장 랜섬웨어 (1편)</td>
         <td style="padding: 12px; font-size: 0.9em;">사회 공학 기법을 활용하여 정품 런처로 위장한 랜섬웨어의 초기 침투부터 파괴 과정을 분석했습니다.</td>
+        <td style="padding: 12px;">
+          <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        </td>
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">
           <a href="https://blog.naver.com/dangel798/224137239220" style="text-decoration: none;" title="Part 1">📝</a>
         </td>
@@ -160,6 +167,9 @@
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold; color: #58a6ff;">[C# 악성코드 분석] 직접만든 랜섬웨어 복구 툴 제작 및 원리 (2편)</td>
         <td style="padding: 12px; font-size: 0.9em;">직접 제작한 랜섬웨어를 무력화하고 암호화된 파일을 원래대로 복구하는 툴의 기술적 원리를 다룹니다.</td>
+        <td style="padding: 12px;">
+          <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        </td>
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">
           <a href="https://blog.naver.com/dangel798/224142147117" style="text-decoration: none;" title="Part 2">📝</a>
         </td>
