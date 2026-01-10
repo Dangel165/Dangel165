@@ -133,10 +133,17 @@
     </thead>
     <tbody>
       <tr style="border-bottom: 1px solid #30363d;">
-        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">[C# 악성코드 분석] 마인크래프트 복돌 위장 랜섬웨어</td>
-        <td style="padding: 12px; font-size: 0.9em;">사회 공학 기법을 활용하여 정품 런처로 위장한 랜섬웨어의 초기 침투부터 시스템 파괴 과정을 분석한 연구입니다.</td>
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">[C# 악성코드 분석] 마인크래프트 복돌 위장 랜섬웨어 (1편)</td>
+        <td style="padding: 12px; font-size: 0.9em;">사회 공학 기법을 활용하여 정품 런처로 위장한 랜섬웨어의 초기 침투부터 파괴 과정을 분석했습니다.</td>
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">
-          <a href="https://blog.naver.com/dangel798/224137239220" style="text-decoration: none;" title="Analysis Report">📝</a>
+          <a href="https://blog.naver.com/dangel798/224137239220" style="text-decoration: none;" title="Part 1">📝</a>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">[C# 악성코드 분석] 랜섬웨어 복구 툴 제작 및 원리 (2편)</td>
+        <td style="padding: 12px; font-size: 0.9em;">직접 제작한 랜섬웨어를 무력화하고 암호화된 파일을 원래대로 복구하는 툴의 기술적 원리를 다룹니다.</td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
+          <a href="https://blog.naver.com/dangel798/224142147117" style="text-decoration: none;" title="Part 2">📝</a>
         </td>
       </tr>
     </tbody>
