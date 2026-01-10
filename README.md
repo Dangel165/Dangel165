@@ -96,7 +96,7 @@
         </td>
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">
-          <a href="https://blog.naver.com/dangel798" style="text-decoration: none;" title="Blog">📝</a>
+          <a href="https://blog.naver.com/dangel798/224138618178" style="text-decoration: none;" title="Blog">📝</a>
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
