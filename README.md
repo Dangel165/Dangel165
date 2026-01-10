@@ -114,7 +114,7 @@
         <td style="padding: 12px;">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
         </td>
-        <td style="padding: 12px; text-align: center; font-size: 0.8em; color: #8b949e;">비공개</td>
+        <td style="padding: 12px; text-align: center; font-size: 0.8em; color: #8b949e;">Private</td>
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
       </tr>
     </tbody>
@@ -187,6 +187,7 @@
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cryptography-9C27B0?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Forensics-00BCD4?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Reversing-FF5722?style=for-the-badge"/>
