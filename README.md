@@ -15,17 +15,19 @@
   <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
     <thead>
       <tr style="border-bottom: 2px solid #30363d; background-color: #161b22;">
-        <th style="padding: 12px; width: 12%;">Date</th>
-        <th style="padding: 12px; width: 30%;">Award Name</th>
-        <th style="padding: 12px; width: 28%;">Item</th>
+        <th style="padding: 12px; width: 10%;">Date</th>
+        <th style="padding: 12px; width: 25%;">Award Name</th>
+        <th style="padding: 12px; width: 20%;">Team</th>
+        <th style="padding: 12px; width: 20%;">Item</th>
         <th style="padding: 12px; width: 15%;">Result</th>
-        <th style="padding: 12px; width: 15%; text-align: center;">Evidence</th>
+        <th style="padding: 12px; width: 10%; text-align: center;">Evidence</th>
       </tr>
     </thead>
     <tbody>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px;">2025.12</td>
-        <td style="padding: 12px;"><b>2025 직업계고 창업아이템 공모전 (전국)</b><br/><span style="color: #8b949e; font-size: 0.8em;">FUN FUN한 녀석들</span></td>
+        <td style="padding: 12px;"><b>2025 직업계고 창업아이템 공모전 (전국)</b><br/><span style="color: #8b949e; font-size: 0.8em;">교육부</span></td>
+        <td style="padding: 12px;">FUN FUN한 녀석들</td>
         <td style="padding: 12px; color: #58a6ff;">자율주행 잔디깎기</td>
         <td style="padding: 12px;"><img src="https://img.shields.io/badge/1st-최우수-FFD700?style=flat-square&logoColor=white"/></td>
         <td style="padding: 12px; text-align: center;">
@@ -35,6 +37,7 @@
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px;">2025.11</td>
         <td style="padding: 12px;"><b>2025년 전주 IP 마이스터 대회</b><br/><span style="color: #8b949e; font-size: 0.8em;"></span></td>
+        <td style="padding: 12px;">JTHS_makes</td>
         <td style="padding: 12px; color: #58a6ff;">커피 씨앗컵 시뮬레이터</td>
         <td style="padding: 12px;"><img src="https://img.shields.io/badge/Award-참가상-gray?style=flat-square&logoColor=white"/></td>
         <td style="padding: 12px; text-align: center;">
@@ -44,6 +47,7 @@
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px;">2025.10</td>
         <td style="padding: 12px;"><b>전주 사회적 기업 박람회</b><br/><span style="color: #8b949e; font-size: 0.8em;"></span></td>
+        <td style="padding: 12px;">FUN FUN한 녀석들</td>
         <td style="padding: 12px; color: #58a6ff;">자율주행 잔디깎기</td>
         <td style="padding: 12px;"><img src="https://img.shields.io/badge/2nd-우수-C0C0C0?style=flat-square&logoColor=white"/></td>
         <td style="padding: 12px; text-align: center; font-size: 1.2em;">
@@ -53,6 +57,7 @@
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px;">2025</td>
         <td style="padding: 12px;"><b>프로그래밍 교과 우수상</b><br/><span style="color: #8b949e; font-size: 0.8em;">전주공업고등학교</span></td>
+        <td style="padding: 12px;">-</td>
         <td style="padding: 12px; color: #8b949e;">-</td>
         <td style="padding: 12px;"><img src="https://img.shields.io/badge/Academic-Excellence-58a6ff?style=flat-square&logoColor=white"/></td>
         <td style="padding: 12px; text-align: center;">-</td>
