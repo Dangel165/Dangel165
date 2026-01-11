@@ -108,7 +108,9 @@
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">
           <a href="https://github.com/Dangel165/AI-autonomous-driving-simulator" style="text-decoration: none;" title="GitHub">📁</a>
         </td>
-        <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
+          <a href="https://blog.naver.com/dangel798/224143139997" style="text-decoration: none;" title="Blog">📝</a>
+        </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold; color: #58a6ff;">☕ 커피 씨앗컵 시뮬레이터</td>
