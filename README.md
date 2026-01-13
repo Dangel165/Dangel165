@@ -152,6 +152,16 @@
     </thead>
     <tbody>
       <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">[Python 악성코드 분석] 직접 만든 디스코드 봇 기반 RAT(원격 제어 도구) 빌더 분석</td>
+        <td style="padding: 12px; font-size: 0.9em;">오픈소스 RAT인 PySilon의 동작 원리를 바탕으로, 디스코드 봇을 이용해 감염된 PC를 실시간 제어하는 PyTunnel 빌더의 위협을 분석했습니다.</td>
+        <td style="padding: 12px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
+          <a href="https://blog.naver.com/dangel798/224145653930" style="text-decoration: none;" title="Analysis Report">📝</a>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold; color: #58a6ff;">[C# 악성코드 분석] 직접만든 Discord 데이터 추출 및 RSA-2048 하이브리드 암호화</td>
         <td style="padding: 12px; font-size: 0.9em;">디스코드 토큰 추출 기능과 AES-RSA 하이브리드 키 관리 체계를 구현하며 실제 랜섬웨어의 동작 원리를 분석했습니다.</td>
         <td style="padding: 12px;">
