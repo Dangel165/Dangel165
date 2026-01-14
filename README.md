@@ -194,6 +194,34 @@
     </tbody>
   </table>
 
+  <h2>🛡️ Security Program Development</h2>
+  <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
+    <thead>
+      <tr style="border-bottom: 2px solid #30363d; background-color: #161b22;">
+        <th style="padding: 12px; width: 30%;">Title</th>
+        <th style="padding: 12px; width: 40%;">Summary</th>
+        <th style="padding: 12px; width: 10%;">Tech Stack</th>
+        <th style="padding: 12px; width: 10%; text-align: center;">Code</th>
+        <th style="padding: 12px; width: 10%; text-align: center;">View</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">[Python] YARA 자동 생성기</td>
+        <td style="padding: 12px; font-size: 0.9em;">악성코드 샘플을 더 효율적으로 분석하고 탐지하기 위해 직접 개발한 YARA 룰 자동 생성 프로그램입니다.</td>
+        <td style="padding: 12px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
+          <a href="https://github.com/Dangel165/YARA-automatic-generator" style="text-decoration: none;" title="GitHub">📁</a>
+        </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
+          <a href="https://blog.naver.com/dangel798/224147017227" style="text-decoration: none;" title="Blog">📝</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
   <h2>🏢 Organizations</h2>
   <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
     <tbody>
