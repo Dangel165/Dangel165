@@ -131,18 +131,20 @@
         <th style="padding: 12px; width: 10%; text-align: center;">View</th>
       </tr>
     </thead>
-    <tr style="border-bottom: 1px solid #30363d;">
-  <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🎮 [JavaScript] AI 술래잡기</td>
-  <td style="padding: 12px; font-size: 0.9em;">진화 DNA 기반의 도망자-술래 협력 및 생존 시뮬레이션 시스템 구현</td>
-  <td style="padding: 12px;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  </td>
-  <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
-  <td style="padding: 12px; text-align: center; font-size: 1.5em;">
-    <a href="https://blog.naver.com/dangel798/224148370659" style="text-decoration: none;" title="Blog">📝</a>
-  </td>
-</tr>
+    <tbody>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🎮 [JavaScript] AI 술래잡기</td>
+        <td style="padding: 12px; font-size: 0.9em;">진화 DNA 기반의 도망자-술래 협력 및 생존 시뮬레이션 시스템 구현</td>
+        <td style="padding: 12px;">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
+          <a href="https://github.com/Dangel165/AI-playing-tag" style="text-decoration: none;" title="GitHub">📁</a>
+        </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
+          <a href="https://blog.naver.com/dangel798/224148370659" style="text-decoration: none;" title="Blog">📝</a>
+        </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🧩 백준 문제풀이 해설</td>
@@ -283,6 +285,8 @@
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
     <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cryptography-9C27B0?style=for-the-badge"/>
