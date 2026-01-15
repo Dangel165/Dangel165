@@ -66,6 +66,8 @@
   </table>
 
   <h2>🚀 Projects</h2>
+  
+  <h3>🏅 Competition Project</h3>
   <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
     <thead>
       <tr style="border-bottom: 2px solid #30363d; background-color: #161b22;">
@@ -73,7 +75,7 @@
         <th style="padding: 12px; width: 35%;">Short Summary</th>
         <th style="padding: 12px; width: 20%;">Tech Stack</th>
         <th style="padding: 12px; width: 10%; text-align: center;">Code</th>
-        <th style="padding: 12px; width: 10%; text-align: center;">Project Description</th>
+        <th style="padding: 12px; width: 10%; text-align: center;">View</th>
       </tr>
     </thead>
     <tbody>
@@ -92,20 +94,7 @@
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
-        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🧩 백준 문제풀이 해설</td>
-        <td style="padding: 12px; font-size: 0.9em;">다양한 알고리즘 유형 분석 및 자료구조를 활용한 최적화 풀이 기록</td>
-        <td style="padding: 12px;">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br/>
-          <img src="https://img.shields.io/badge/Haxe-EA8220?style=flat-square&logo=haxe&logoColor=white"/>
-        </td>
-        <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
-        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
-          <a href="https://blog.naver.com/dangel798/224138618178" style="text-decoration: none;" title="Blog">📝</a>
-        </td>
-      </tr>
-      <tr style="border-bottom: 1px solid #30363d;">
-        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🚜 자율주행 자동차 시뮬레이션</td>
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🏎️ 자율주행 자동차 시뮬레이션</td>
         <td style="padding: 12px; font-size: 0.9em;">A* 알고리즘을 활용한 최적 경로 탐색 및 장애물 회피 로직 구현</td>
         <td style="padding: 12px;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -118,7 +107,7 @@
         </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
-        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">☕ 커피 씨앗컵 시뮬레이터</td>
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🌱 커피 씨앗컵 시뮬레이터</td>
         <td style="padding: 12px; font-size: 0.9em;">친환경 커피 씨앗컵 메커니즘 설명을 위한 시뮬레이션 환경 구축</td>
         <td style="padding: 12px;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -127,6 +116,34 @@
           <a href="https://github.com/Dangel165/Biodegradable-Coffee-Cup-Seed-Growth-Simulation-Hackathon-competition-" style="text-decoration: none;" title="GitHub">📁</a>
         </td>
         <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3>💡 General Projects</h3>
+  <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d;">
+    <thead>
+      <tr style="border-bottom: 2px solid #30363d; background-color: #161b22;">
+        <th style="padding: 12px; width: 25%;">Project Name</th>
+        <th style="padding: 12px; width: 35%;">Short Summary</th>
+        <th style="padding: 12px; width: 20%;">Tech Stack</th>
+        <th style="padding: 12px; width: 10%; text-align: center;">Code</th>
+        <th style="padding: 12px; width: 10%; text-align: center;">View</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🧩 백준 문제풀이 해설</td>
+        <td style="padding: 12px; font-size: 0.9em;">다양한 알고리즘 유형 분석 및 자료구조를 활용한 최적화 풀이 기록</td>
+        <td style="padding: 12px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/Haxe-EA8220?style=flat-square&logo=haxe&logoColor=white"/>
+        </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
+          <a href="https://blog.naver.com/dangel798/224138618178" style="text-decoration: none;" title="Blog">📝</a>
+        </td>
       </tr>
       <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🤖 산업용 협동로봇 코딩</td>
