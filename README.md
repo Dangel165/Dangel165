@@ -133,6 +133,17 @@
     </thead>
     <tbody>
       <tr style="border-bottom: 1px solid #30363d;">
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🎮 [JavaScript] AI 술래잡기</td>
+        <td style="padding: 12px; font-size: 0.9em;">진화 DNA 기반의 도망자-술래 협력 및 생존 시뮬레이션 시스템 구현</td>
+        <td style="padding: 12px;">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        </td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">-</td>
+        <td style="padding: 12px; text-align: center; font-size: 1.5em;">
+          <a href="https://blog.naver.com/dangel798/224148370659" style="text-decoration: none;" title="Blog">📝</a>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #30363d;">
         <td style="padding: 12px; font-weight: bold; color: #58a6ff;">🧩 백준 문제풀이 해설</td>
         <td style="padding: 12px; font-size: 0.9em;">다양한 알고리즘 유형 분석 및 자료구조를 활용한 최적화 풀이 기록</td>
         <td style="padding: 12px;">
