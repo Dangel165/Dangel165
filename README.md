@@ -238,7 +238,7 @@
     </thead>
     <tbody>
       <tr style="border-bottom: 1px solid #30363d;">
-        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">💉 [C++,Python] 백신 프로그램 만들기 (InfraRed)</td>
+        <td style="padding: 12px; font-weight: bold; color: #58a6ff;">[C++,Python] 백신 프로그램 만들기 (InfraRed)</td>
         <td style="padding: 12px; font-size: 0.9em;">기존의 단순 문자열 매칭 방식의 한계를 극복하고, 오탐율을 최소화하기 위해 정교한 탐지 로직을 갖춘 자체 백신 엔진을 설계 및 구현했습니다.</td>
         <td style="padding: 12px;">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br/>
