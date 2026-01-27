@@ -318,6 +318,7 @@
     <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenMV-E8314F?style=for-the-badge&logo=openmv&logoColor=white"/>
   </div>
 
   <h2>🖥️ Linux</h2>
