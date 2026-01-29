@@ -5,7 +5,7 @@
 
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF3030&center=true&vCenter=true&width=900&lines=Initializing+Analysis+Environment...;Loading+IDA+Pro+v8.3...;Binary+Identified:+Dangel.exe;[Warning]+Ransomware+behavior+detected!;Decrypting+RSA-2048+Message...;aa38bc19d891300113f38d45e5292e0b...;[ERROR]+Private+Key+Required!;Decryption+Failed+%7C+Access+Denied" alt="Analyst Console" />
-</div>>
+</div>
 
 <div align="center">
 <sub>🔓 If you can decrypt this... something special might be waiting for you.</sub>
