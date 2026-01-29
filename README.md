@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-<sub>🔓 If you can decrypt this... something special might be waiting for you.</sub>
+<sub>🔓 If you can decrypt this code... a hidden message might be waiting for you.</sub>
 </div>
 
 <br>
