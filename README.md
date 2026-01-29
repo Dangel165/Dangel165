@@ -17,14 +17,6 @@
 
 ## 🔐 RSA-2048 Encrypted Message
 
-**Hex Format:**
-
-```
-aa38bc19d891300113f38d45e5292e0b2f23163b599ed64034d48bbd1c6efee6239536b7b3ff1c873398c0581adf04ff24e02648d2ebc8f769372679600b3f4698129b38646e36e87b9f218d045930dd86f39bbde48a9a7af20573f35627aeaebd5b8849c298bed146cda72629a2d616e5ef1cda6918995cf664252c7f7b2a18e02b622ec2978f2e0383c2e457b4c7cfca48306af8687271e1f047f7aea4c6fdd971c8e0ff186fd19b86ec49ce9c9775b5ecf4f0303772629305a8737c8354c43064117e1d017404169e3ab5d27c4d3cf0092b1c6c582ebd0a48a75e8feea7e95a28e83117ed3c62e966851939ce071aba40f3eeb71490902f47cc7dc99423a3
-```
-
-**Base64 Format:**
-
 ```
 qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5YAs/RpgSmzhkbjboe58hjQRZMN2G85u95IqaevIFc/NWJ66uvVuIScKYvtFGzacmKaLWFuXvHNppGJlc9mQlLH97KhjgK2IuwpePLgODwuRXtMfPykgwavhocnHh8Ef3rqTG/dlxyOD/GG/Rm4bsSc6cl3W17PTwMDdyYpMFqHN8g1TEMGQRfh0BdAQWnjq10nxNPPAJKxxsWC69CkinXo/up+laKOgxF+08YulmhRk5zgcaukDz7rcUkJAvR8x9yZQjow==
 ```
@@ -32,7 +24,6 @@ qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5
 **Algorithm:** RSA-2048 with PKCS1_OAEP
 
 ---
-
 
   <h2>🛠️ Tech Stack</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
