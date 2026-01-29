@@ -1,55 +1,38 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&text=Dangel%20GitHub&fontSize=60&fontAlign=50&fontAlignY=35&desc=Computer%20Virus%20Analysis%20|%20Students%20with%20a%20keen%20interest%20in%20security&descAlign=50&descAlignY=80&fontColor=ffffff" style="max-width: 100%; height: auto;" />
 
-<!-- 🔐 EASTER EGG: RSA-2048 Encrypted Message! Can you decrypt it? -->
-<!-- Hint: You'll need the private key... -->
+<!-- 🔐 EASTER EGG: RSA-2048 Encrypted Message -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+Analysis+Environment...;Loading+IDA+Pro+v8.3...;Binary+Identified:+Dangel.exe;[Warning]+Ransomware+behavior+detected!;Decrypting+RSA-2048+Message...;3a1dc1d66d648b01520fb401004a49888486d3b5b16c397209bdd4a7e8a10f77...;[ERROR]+Private+Key+Required!;Decryption+Failed+%7C+Access+Denied" alt="Analyst Console" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+Analysis+Environment...;Loading+IDA+Pro+v8.3...;Binary+Identified:+Dangel.exe;[Warning]+Ransomware+behavior+detected!;Decrypting+RSA-2048+Message...;aa38bc19d891300113f38d45e5292e0b...;[ERROR]+Private+Key+Required!;Decryption+Failed+%7C+Access+Denied" alt="Analyst Console" />
 </div>
 
 <div align="center">
-  <sub>🔓 If you can decrypt this... something special might be waiting for you.</sub>
+<sub>🔓 If you can decrypt this... something special might be waiting for you.</sub>
 </div>
 
 <br>
 
-<!-- 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                    🔐 RSA-2048 ENCRYPTED MESSAGE                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+---
 
-Full Encrypted Message (Hex Format):
-────────────────────────────────────────────────────────────────────────────────
-3a1dc1d66d648b01520fb401004a49888486d3b5b16c397209bdd4a7e8a10f775b801712a4222dc60c90
-e995d782ab26de10db65682c88bf2b0f418d8f26a07f4dc65ab98e1664234f92adbffb0a961ba9caa48d
-b06e21983bb3237db1a55109cd7b3829f13ee46b8d2c1d16ba2bcc7ba8eef059afb38c27aa9dd44126cb
-fa72dd41c957ebfb38f735ec7319edf4e88c77bcae68e0a4ab41148a61cd43b854e0d0df3b043a632df1
-1a41d2ef46fbc34e92af23fbb5fb70f85a8fb3bdee2804eeb1ff234ae6b3df69f8e6237b56d74089ce19
-2cd827f85824efcc27b07667228399aa51902e68b8123cc321c2a3d8971eb8c8062d61fffc5a0ed2a9d4
-8e5f1749
+## 🔐 RSA-2048 Encrypted Message
 
-Encrypted Message (Base64 Format):
-────────────────────────────────────────────────────────────────────────────────
-Oh3B1m1kiwFSD7QBAEpJiISG07WxbDlyCb3Up+ihD3dbgBcSpCItxgyQ6ZXXgqsm3hDbZWgsiL8rD0GN
-jyagf03GWrmOFmQjT5Ktv/sKlhupyqSNsG4hmDuzI32xpVEJzXs4KfE+5GuNLB0WuivMe6ju8Fmvs4wn
-qp3UQSbL+nLdQclX6/s49zXscxnt9OiMd7yuaOCkq0EUimHNQ7hU4NDfOwQ6Yy3xGkHS70b7w06SryP7
-tftw+FqPs73uKATusf8jSuaz32n45iN7VtdAic4ZLNgn+Fgk78wnsHZnIoOZqlGQLmi4EjzDIcKj2Jce
-uMgGLWH//FoO0qnUjl8XSQ==
+**Hex Format:**
 
-Encryption Details:
-────────────────────────────────────────────────────────────────────────────────
-Algorithm: RSA-2048
-Padding: PKCS1_OAEP
-Public Exponent: 65537 (0x10001)
-Message Length: 47 bytes
-Ciphertext Length: 256 bytes (2048 bits)
+```
+aa38bc19d891300113f38d45e5292e0b2f23163b599ed64034d48bbd1c6efee6239536b7b3ff1c873398c0581adf04ff24e02648d2ebc8f769372679600b3f4698129b38646e36e87b9f218d045930dd86f39bbde48a9a7af20573f35627aeaebd5b8849c298bed146cda72629a2d616e5ef1cda6918995cf664252c7f7b2a18e02b622ec2978f2e0383c2e457b4c7cfca48306af8687271e1f047f7aea4c6fdd971c8e0ff186fd19b86ec49ce9c9775b5ecf4f0303772629305a8737c8354c43064117e1d017404169e3ab5d27c4d3cf0092b1c6c582ebd0a48a75e8feea7e95a28e83117ed3c62e966851939ce071aba40f3eeb71490902f47cc7dc99423a3
+```
 
-🎯 Challenge: Decrypt this message using the private key!
-   Only true analysts can solve this puzzle.
+**Base64 Format:**
 
-Hint: The private key was generated on 2026-01-29 11:12:30
--->
+```
+qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5YAs/RpgSmzhkbjboe58hjQRZMN2G85u95IqaevIFc/NWJ66uvVuIScKYvtFGzacmKaLWFuXvHNppGJlc9mQlLH97KhjgK2IuwpePLgODwuRXtMfPykgwavhocnHh8Ef3rqTG/dlxyOD/GG/Rm4bsSc6cl3W17PTwMDdyYpMFqHN8g1TEMGQRfh0BdAQWnjq10nxNPPAJKxxsWC69CkinXo/up+laKOgxF+08YulmhRk5zgcaukDz7rcUkJAvR8x9yZQjow==
+```
+
+**Algorithm:** RSA-2048 with PKCS1_OAEP
+
+---
+
 
   <h2>🛠️ Tech Stack</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
