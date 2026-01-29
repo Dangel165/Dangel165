@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&text=Dangel%20GitHub&fontSize=60&fontAlign=50&fontAlignY=35&desc=Computer%20Virus%20Analysis%20|%20Students%20with%20a%20keen%20interest%20in%20security&descAlign=50&descAlignY=80&fontColor=ffffff" style="max-width: 100%; height: auto;" />
 
-  <p align="center"><i>"Programming languages are tools that can create anything, but conversely, they can also destroy anything."</i></p>
+  <p align="center" style="font-size: 1.2em; margin-top: 20px;"><i>"Programming languages are tools that can create anything, but conversely, they can also destroy anything."</i></p>
 
   <h2>🛠️ Tech Stack</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
