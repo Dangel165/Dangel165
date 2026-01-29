@@ -23,8 +23,6 @@ Copy the encrypted message below:
 qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5YAs/RpgSmzhkbjboe58hjQRZMN2G85u95IqaevIFc/NWJ66uvVuIScKYvtFGzacmKaLWFuXvHNppGJlc9mQlLH97KhjgK2IuwpePLgODwuRXtMfPykgwavhocnHh8Ef3rqTG/dlxyOD/GG/Rm4bsSc6cl3W17PTwMDdyYpMFqHN8g1TEMGQRfh0BdAQWnjq10nxNPPAJKxxsWC69CkinXo/up+laKOgxF+08YulmhRk5zgcaukDz7rcUkJAvR8x9yZQjow==
 ```
 
-**Algorithm:** RSA-2048 with PKCS1_OAEP
-
 **Hint:** The private key is embedded in the decryption tool. Use the hidden link below to decrypt it. 🔑
 
 ---
@@ -35,8 +33,6 @@ qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5
 🔐 ENCRYPTED LINK:
 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQTctT0pjd29PRjJ3WjNZTERrdFBadnlsRHlhTjNZTXcvdmlldz91c3A9c2hhcmluZw==
 -->
-
-**Encryption:** Base64
 
 💡 **Hint:** Just think about it easily! The hidden link isn't that far away.
 
