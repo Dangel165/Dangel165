@@ -4,7 +4,7 @@
 <!-- 🔐 EASTER EGG: RSA-2048 Encrypted Message -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=⚠️+CRITICAL+ALERT:+System+Compromised!;Malware+Detected:+Dangel.exe;Encrypting+Files...+87%25+Complete;Spreading+to+Network+Devices...;🔒+1,247+Files+Locked!;Ransomware+Activated+|+Pay+0.5+BTC;Bitcoin+Address:+1A1zP1eP5QGefi2D...;Access+Denied+|+System+Lockdown;Your+Data+Has+Been+Encrypted!;Contact:+darkweb@onion.net" alt="Virus Alert" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=CRITICAL+ALERT+System+Compromised;Malware+Detected+Dangel.exe;Encrypting+Files+87+percent;Spreading+to+Network;Files+Locked+Ransomware+Active;Pay+0.5+BTC;Access+Denied+System+Lockdown" alt="Virus Alert" />
 </div>
 
 <div align="center">
