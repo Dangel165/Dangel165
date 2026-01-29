@@ -4,7 +4,7 @@
 <!-- 🔐 EASTER EGG: RSA-2048 Encrypted Message -->
 
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF3030&center=true&vCenter=true&width=900&lines=Initializing+Analysis+Environment...;Loading+IDA+Pro+v8.3...;Binary+Identified:+Dangel.exe;[Warning]+Ransomware+behavior+detected!;Decrypting+RSA-2048+Message...;aa38bc19d891300113f38d45e5292e0b...;[ERROR]+Private+Key+Required!;Decryption+Failed+%7C+Access+Denied" alt="Analyst Console" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=⚠️+CRITICAL+ALERT:+System+Compromised!;Malware+Detected:+Dangel.exe;Encrypting+Files...+[████████]+87%25;Spreading+to+Network+Devices...;🔒+1,247+Files+Locked!;Ransomware+Activated+%7C+Pay+0.5+BTC;Bitcoin+Address:+1A1zP1eP5QGefi2D...;Access+Denied+%7C+System+Lockdown;Your+Data+Has+Been+Encrypted!;Contact:+darkweb@onion.net" alt="Virus Alert" />
 </div>
 
 <div align="center">
