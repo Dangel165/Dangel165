@@ -38,7 +38,7 @@ qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5
 
 **Encryption:** Base64 + Reverse
 
-💡 **Hint:** There's a hint nearby!
+💡 **Hint:**:Just think about it easily!
 
 ---
 
