@@ -1,41 +1,77 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&text=Dangel%20GitHub&fontSize=60&fontAlign=50&fontAlignY=35&desc=Malware%20Analysis%20|%20Reverse%20Engineering%20|%20Security%20Researcher&descAlign=50&descAlignY=80&fontColor=ffffff" style="max-width: 100%; height: auto;" />
 
+<!-- 🔍 EASTER EGG #1: View page source (Ctrl+U) to see this hidden message! -->
+<!-- SHA-256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 -->
+<!-- MD5: d41d8cd98f00b204e9800998ecf8427e -->
+<!-- Congratulations! You found the first easter egg. True analysts always read the source code. -->
+<!-- "In the world of malware analysis, curiosity is your greatest weapon." - Dangel -->
+
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ [SYSTEM] Initializing Analysis Environment...                              │
-│ [SYSTEM] Loading IDA Pro v8.3...                                          │
-│ [SYSTEM] Decompiling Binary... Success                                     │
-│ [SYSTEM] Sandbox Environment Initialized                                   │
-│ [WARNING] Ransomware Behavior Detected!                                    │
-│ [INFO] Extracting Strings from Memory...                                   │
-│ [INFO] Anti-VM Check: PASSED                                              │
-│ [SUCCESS] Decrypting Payload... Complete                                   │
-│ [INFO] Analyzing API Calls...                                             │
-│ [SUCCESS] Generating YARA Rule... Done                                     │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ [SYSTEM] Initializing Analysis Environment...                               │
+│ [SYSTEM] Loading IDA Pro v8.3... ███████████████████████ 100%              │
+│ [SYSTEM] Decompiling Binary... Success                                      │
+│ [SYSTEM] Sandbox Environment Initialized                                    │
+│ [WARNING] Ransomware Behavior Detected!                                     │
+│ [INFO] Extracting Strings from Memory...                                    │
+│ [INFO] Anti-VM Check: PASSED                                               │
+│ [SUCCESS] Decrypting Payload... Complete                                    │
+│ [INFO] Analyzing API Calls... CreateMutexW, RegSetValueExW                 │
+│ [SUCCESS] Generating YARA Rule... Done                                      │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 **[ANALYSIS_REPORT]** `Threat_Level: CRITICAL` | `IOC: 0xDEADC0DE`
 
 **Indicators:** Strings: "Anti-VM", "Persistence", "ScheduledTask" | Behavior: Keylogger, Screenshot
 
-<!--
-🔍 EASTER EGG - 드래그로 선택해보세요!
-SHA-256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-MD5: d41d8cd98f00b204e9800998ecf8427e
-Detection: 47/71 Vendors (VirusTotal)
-🎯 축하합니다! 진정한 분석가시군요. Keep digging deeper...
--->
+<details>
+<summary>🔍 Click to reveal hidden analysis data (Easter Egg #2)</summary>
 
-<sub>**[Hidden Message]** Try selecting the space below ⬇️</sub>
+<br>
 
 ```diff
-- CLASSIFIED INFORMATION - ANALYST EYES ONLY
-! SHA-256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-! MD5: d41d8cd98f00b204e9800998ecf8427e | Detection: 47/71 Vendors
-+ 🔍 Easter Egg Found! You are a true analyst. Keep digging deeper...
+! ═══════════════════════════════════════════════════════════════════
+! CLASSIFIED MALWARE ANALYSIS REPORT - ANALYST EYES ONLY
+! ═══════════════════════════════════════════════════════════════════
++ File Hash (SHA-256):
++ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+! 
++ File Hash (MD5): 
++ d41d8cd98f00b204e9800998ecf8427e
+! 
+- Detection Rate: 47/71 Vendors (VirusTotal)
+- First Seen: 2026-01-29 10:47:05 UTC
+! 
++ YARA Rule Match: Dangel_Ransomware_v2
++ C2 Server: 45.67.89.123:8080
++ Encryption: AES-256-CBC + RSA-2048
+! 
+! ═══════════════════════════════════════════════════════════════════
++ 🎯 Congratulations! You found Easter Egg #2!
++ You are a true analyst. Keep digging deeper...
+! ═══════════════════════════════════════════════════════════════════
 ```
+
+**Persistence Mechanism:**
+```registry
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+Value: "SecurityUpdate" = "C:\Users\Public\svchost.exe"
+```
+
+**Network Indicators:**
+- C2 Domain: `malicious-c2-server[.]onion`
+- User-Agent: `Mozilla/5.0 (Windows NT 10.0; Win64; x64) DangelBot/1.0`
+
+**MITRE ATT&CK Techniques:**
+- T1486: Data Encrypted for Impact
+- T1547.001: Registry Run Keys / Startup Folder
+- T1071.001: Application Layer Protocol: Web Protocols
+
+</details>
+
+<sub>💡 **Analyst Tip:** Try viewing the page source (Ctrl+U) for more hidden messages...</sub>
 
 ---
 
