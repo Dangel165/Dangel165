@@ -1,14 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&text=Dangel%20GitHub&fontSize=60&fontAlign=50&fontAlignY=35&desc=Malware%20Analysis%20|%20Reverse%20Engineering%20|%20Security%20Researcher&descAlign=50&descAlignY=80&fontColor=ffffff" style="max-width: 100%; height: auto;" />
 
-  <div style="background-color: #0d1117; padding: 15px; border-radius: 10px; margin-top: 20px; border: 1px solid #30363d;">
+<div style="background-color: #0d1117; padding: 15px; border-radius: 10px; margin-top: 20px; border: 1px solid #30363d;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=Initializing+Analysis+Environment...;Loading+IDA+Pro+v8.3...;Binary+Identified:+Dangel.exe;[Warning]+Ransomware+behavior+detected!;Decrypting+Key+Message...+Success.;UHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzIGFyZSB0b29scyB0aGF0IGNhbiBjcmVhdGUgYW55dGhpbmcsIGJ1dCBjb252ZXJzZWx5LCB0aGV5IGNhbiBhbHNvIGRlc3Ryb3kgYW55dGhpbmcu" alt="Analyst Console" />
     
-    <div style="margin-top: 5px; font-family: 'Fira Code', monospace; line-height: 1;">
-      <span style="color: #0d1117; font-size: 0.7em; user-select: all;">
-        [ANALYSIS_REPORT] Threat_Level: Critical | Strings: "Anti-VM", "Persistence" | Indicator: 0xDEADC0DE | SHA-256: e3b0c442...
-      </span>
-    </div>
+    <p style="margin-top: 5px; font-family: monospace; font-size: 0.7em;">
+      <span style="color: #0d1117;">[ANALYSIS_REPORT] Threat_Level: Critical | Strings: "Anti-VM", "Persistence" | Indicator: 0xDEADC0DE | SHA-256: e3b0c442...</span>
+    </p>
   </div>
 
   <h2>🛠️ Tech Stack</h2>
