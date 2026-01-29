@@ -2,57 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&text=Dangel%20GitHub&fontSize=60&fontAlign=50&fontAlignY=35&desc=Computer%20Virus%20Analysis%20|%20Students%20with%20a%20keen%20interest%20in%20security&descAlign=50&descAlignY=80&fontColor=ffffff" style="max-width: 100%; height: auto;" />
 
 <!-- 🔍 EASTER EGG: View page source (Ctrl+U) to see this hidden message! -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- SHA-256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 -->
 <!-- MD5: d41d8cd98f00b204e9800998ecf8427e -->
-<!-- Congratulations! You found the easter egg. True analysts always read the source code. -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- Congratulations! You found the easter egg. -->
+<!-- True analysts always read the source code. -->
 <!-- "In the world of malware analysis, curiosity is your greatest weapon." - Dangel -->
-
-<details>
-<summary>🔍 [ANALYSIS_REPORT] Threat_Level: CRITICAL | IOC: 0xDEADC0DE (Click to reveal)</summary>
-
-<br>
-
-```diff
-! ═══════════════════════════════════════════════════════════════════
-! CLASSIFIED MALWARE ANALYSIS REPORT - ANALYST EYES ONLY
-! ═══════════════════════════════════════════════════════════════════
-+ File Hash (SHA-256):
-+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-! 
-+ File Hash (MD5): 
-+ d41d8cd98f00b204e9800998ecf8427e
-! 
-- Detection Rate: 47/71 Vendors (VirusTotal)
-- First Seen: 2026-01-29 10:47:05 UTC
-! 
-+ YARA Rule Match: Dangel_Ransomware_v2
-+ C2 Server: 45.67.89.123:8080
-+ Encryption: AES-256-CBC + RSA-2048
-! 
-! ═══════════════════════════════════════════════════════════════════
-+ 🎯 Congratulations! You found the Easter Egg!
-+ You are a true analyst. Keep digging deeper...
-! ═══════════════════════════════════════════════════════════════════
-```
-
-**Persistence Mechanism:**
-```registry
-HKCU\Software\Microsoft\Windows\CurrentVersion\Run
-Value: "SecurityUpdate" = "C:\Users\Public\svchost.exe"
-```
-
-**Network Indicators:**
-- C2 Domain: `malicious-c2-server[.]onion`
-- User-Agent: `Mozilla/5.0 (Windows NT 10.0; Win64; x64) DangelBot/1.0`
-
-**MITRE ATT&CK Techniques:**
-- T1486: Data Encrypted for Impact
-- T1547.001: Registry Run Keys / Startup Folder
-- T1071.001: Application Layer Protocol: Web Protocols
-
-</details>
-
-<br>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
   <h2>🛠️ Tech Stack</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
