@@ -4,7 +4,7 @@
 <!-- 🔐 EASTER EGG: Encrypted Message -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=CRITICAL+ALERT+System+Compromised;Malware+Detected+Dangel.exe;Encrypting+Files+87+percent;Spreading+to+Network;Files+Locked+Ransomware+Active;Pay+0.5+BTC;Access+Denied+System+Lockdown" alt="Virus Alert" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=CRITICAL+ALERT+System+Compromised;Malware+Detected+Dangel.exe;Encrypting+Files+87+percent;Spreading+to+Network;Files+Locked+Ransomware+Active;;Access+Denied+System+Lockdown" alt="Virus Alert" />
 </div>
 
 <div align="center">
