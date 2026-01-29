@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&text=Dangel%20GitHub&fontSize=60&fontAlign=50&fontAlignY=35&desc=Computer%20Virus%20Analysis%20|%20Students%20with%20a%20keen%20interest%20in%20security&descAlign=50&descAlignY=80&fontColor=ffffff" style="max-width: 100%; height: auto;" />
 
- <div style="background-color: #161b22; padding: 10px; border-radius: 10px; margin-top: 20px; border: 1px solid #30363d;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Programming+languages+are+tools+that+can+create+anything...;But+conversely%2C+they+can+also+destroy+anything." alt="Typing SVG" />
+<div style="background-color: #161b22; padding: 15px; border-radius: 10px; margin-top: 20px; border: 1px solid #30363d;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=Decoding+Encrypted+Message...;UHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzIGFyZSB0b29scyB0aGF0IGNhbiBjcmVhdGUgYW55dGhpbmcsIGJ1dCBjb252ZXJzZWx5LCB0aGV5IGNhbiBhbHNvIGRlc3Ryb3kgYW55dGhpbmcu" alt="Encrypted Message" />
+    <p style="color: #4CAF50; font-family: 'Fira Code', monospace; font-size: 0.8em; margin-top: 10px;">[ Hint: Base64 ]</p>
   </div>
 
   <h2>🛠️ Tech Stack</h2>
