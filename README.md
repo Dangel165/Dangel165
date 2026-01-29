@@ -17,9 +17,8 @@
 
 ## 🔐 RSA-2048 Encrypted Message
 
-```
-qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5YAs/RpgSmzhkbjboe58hjQRZMN2G85u95IqaevIFc/NWJ66uvVuIScKYvtFGzacmKaLWFuXvHNppGJlc9mQlLH97KhjgK2IuwpePLgODwuRXtMfPykgwavhocnHh8Ef3rqTG/dlxyOD/GG/Rm4bsSc6cl3W17PTwMDdyYpMFqHN8g1TEMGQRfh0BdAQWnjq10nxNPPAJKxxsWC69CkinXo/up+laKOgxF+08YulmhRk5zgcaukDz7rcUkJAvR8x9yZQjow==
-```
+<!-- Hidden encrypted message - drag to select -->
+<span style="color: #ffffff; background-color: #ffffff; user-select: none; cursor: text;">qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5YAs/RpgSmzhkbjboe58hjQRZMN2G85u95IqaevIFc/NWJ66uvVuIScKYvtFGzacmKaLWFuXvHNppGJlc9mQlLH97KhjgK2IuwpePLgODwuRXtMfPykgwavhocnHh8Ef3rqTG/dlxyOD/GG/Rm4bsSc6cl3W17PTwMDdyYpMFqHN8g1TEMGQRfh0BdAQWnjq10nxNPPAJKxxsWC69CkinXo/up+laKOgxF+08YulmhRk5zgcaukDz7rcUkJAvR8x9yZQjow==</span>
 
 **Algorithm:** RSA-2048 with PKCS1_OAEP
 
@@ -27,25 +26,8 @@ qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+Analysis+Environment...;Loading+IDA+Pro+v8.3...;Binary+Identified:+Dangel.exe;[Warning]+Ransomware+behavior+detected!;Scanning+for+Hidden+Artifacts...;[Found]+Encrypted+Payload+in+Overlay;Extracting+Data...+Success" alt="Analyst Console" />
-</div>
 
-<div align="center">
-  <details>
-    <summary style="cursor: pointer; color: #58a6ff;"><b>📂 [SYSTEM] View Encrypted Artifacts</b></summary>
-    <p style="font-family: monospace; font-size: 0.85em; background-color: #161b22; padding: 10px; border-radius: 5px; border: 1px dashed #30363d;">
-      <b>Payload Type:</b> Link_Obfuscation_v2.1<br>
-      <b>Status:</b> Encrypted<br>
-      <br>
-      <span style="color: #0d1117; user-select: all;">
-        SECRET_KEY: ==AWZp9mY0YTM0UTN0YTM1gzMzU2YyZTM0YTN1gjM0ITO5ITN3YmZidjZidvN2M0YmZidjRjZ
-      </span>
-      <br><br>
-      <sub style="color: #8b949e;">Hint: Reverse the string and decode with Base64.</sub>
-    </p>
-  </details>
-</div>
+
 
   <h2>🛠️ Tech Stack</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
