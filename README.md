@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&text=Dangel%20GitHub&fontSize=60&fontAlign=50&fontAlignY=35&desc=Computer%20Virus%20Analysis%20|%20Students%20with%20a%20keen%20interest%20in%20security&descAlign=50&descAlignY=80&fontColor=ffffff" style="max-width: 100%; height: auto;" />
 
-<!-- 🔐 EASTER EGG: RSA-2048 Encrypted Message -->
+<!-- 🔐 EASTER EGG: Encrypted Message -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=CRITICAL+ALERT+System+Compromised;Malware+Detected+Dangel.exe;Encrypting+Files+87+percent;Spreading+to+Network;Files+Locked+Ransomware+Active;Pay+0.5+BTC;Access+Denied+System+Lockdown" alt="Virus Alert" />
