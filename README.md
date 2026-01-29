@@ -36,9 +36,9 @@ qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5
 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQTctT0pjd29PRjJ3WjNZTERrdFBadnlsRHlhTjNZTXcvdmlldz91c3A9c2hhcmluZw==
 -->
 
-**Encryption:** Base64 + Reverse
+**Encryption:** Base64
 
-💡 **Hint:** Just think about it easily!
+💡 **Hint:** Just think about it easily! The hidden link isn't that far away.
 
 ---
 
