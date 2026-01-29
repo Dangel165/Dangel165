@@ -23,7 +23,10 @@ qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5
 
 **Algorithm:** RSA-2048 with PKCS1_OAEP
 
+**Hint:** The private key is hidden in plain sight. Check the repository root. 🔑
+
 ---
+
 
   <h2>🛠️ Tech Stack</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
