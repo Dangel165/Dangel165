@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+Analysis+Environment...;Loading+IDA+Pro+v8.3...;Binary+Identified:+Dangel.exe;[Warning]+Ransomware+behavior+detected!;Decrypting+RSA-2048+Message...;3a1dc1d66d648b01520fb401004a49888486d3b5b16c397209bdd4a7e8a10f77...;[ERROR]+Private+Key+Required!;Decryption+Failed+%7C+Access+Denied" alt="Analyst Console" />
 </div>
 
+<div align="center">
+  <sub>🔓 이 암호를 풀 수 있다면... 무언가 특별한 것이 기다리고 있을지도?</sub>
+</div>
+
 <br>
 
 <!-- 
