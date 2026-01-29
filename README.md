@@ -17,6 +17,8 @@
 
 ## 🔐 RSA-2048 Encrypted Message
 
+Copy the encrypted message below:
+
 ```
 qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5YAs/RpgSmzhkbjboe58hjQRZMN2G85u95IqaevIFc/NWJ66uvVuIScKYvtFGzacmKaLWFuXvHNppGJlc9mQlLH97KhjgK2IuwpePLgODwuRXtMfPykgwavhocnHh8Ef3rqTG/dlxyOD/GG/Rm4bsSc6cl3W17PTwMDdyYpMFqHN8g1TEMGQRfh0BdAQWnjq10nxNPPAJKxxsWC69CkinXo/up+laKOgxF+08YulmhRk5zgcaukDz7rcUkJAvR8x9yZQjow==
 ```
@@ -26,6 +28,14 @@ qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5
 **Hint:** The private key is hidden in plain sight. Check the repository root. 🔑
 
 ---
+
+## 🔗 Hidden Link 
+
+<!-- Hidden encrypted link - drag to select -->
+<span style="color: #ffffff; background-color: #ffffff; user-select: none; cursor: text;">==wZulmchh2c9A3c19zdllmdvQXMPtUQBZzMtlXRRpUNPV1dSZkTTdkQJRGbHV0dNJWex8CZvUGbpZ2Lt92YuUGbn92bn5SZ2lmck9yL6MHc0RHa</span>
+
+---
+
 
   <h2>🛠️ Tech Stack</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
