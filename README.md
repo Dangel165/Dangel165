@@ -31,10 +31,17 @@ qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5
 
 ## 🔗 Hidden Link 
 
-<!-- Hidden encrypted link - drag to select -->
-<span style="color: #ffffff; background-color: #ffffff; user-select: none; cursor: text;">==wZulmchh2c9A3c19zdllmdvQXMPtUQBZzMtlXRRpUNPV1dSZkTTdkQJRGbHV0dNJWex8CZvUGbpZ2Lt92YuUGbn92bn5SZ2lmck9yL6MHc0RHa</span>
+<!-- 
+🔐 ENCRYPTED LINK (Base64 + Reverse):
+==wZulmchh2c9A3c19zdllmdvQXMPtUQBZzMtlXRRpUNPV1dSZkTTdkQJRGbHV0dNJWex8CZvUGbpZ2Lt92YuUGbn92bn5SZ2lmck9yL6MHc0RHa
+
+To view this link, check the page source (Ctrl+U or Cmd+U)
+-->
+
+💡 **Hint:** Check the page source to find the hidden link!
 
 ---
+
 
 
   <h2>🛠️ Tech Stack</h2>
