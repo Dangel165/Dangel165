@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <sub>🔓 이 암호를 풀 수 있다면... 무언가 특별한 것이 기다리고 있을지도?</sub>
+  <sub>🔓 If you can decrypt this... something special might be waiting for you.</sub>
 </div>
 
 <br>
