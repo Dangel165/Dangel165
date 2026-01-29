@@ -31,7 +31,7 @@ qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5
 
 <!-- 
 🔐 ENCRYPTED LINK:
-aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQTctT0pjd29PRjJ3WjNZTERrdFBadnlsRHlhTjNZTXcvdmlldz91c3A9c2hhcmluZw==
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5WXNCTUQvdmlldz91c3A9c2hhcmluZw==
 -->
 
 💡 **Hint:** Just think about it easily! The hidden link isn't that far away.
