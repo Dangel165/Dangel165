@@ -15,7 +15,7 @@
 
 ---
 
-## 🔐 RSA-2048 Encrypted Message
+## 🔐 Encrypted Message
 
 Copy the encrypted message below:
 
