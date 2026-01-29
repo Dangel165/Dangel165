@@ -2,10 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&text=Dangel%20GitHub&fontSize=60&fontAlign=50&fontAlignY=35&desc=Malware%20Analysis%20|%20Reverse%20Engineering%20|%20Security%20Researcher&descAlign=50&descAlignY=80&fontColor=ffffff" style="max-width: 100%; height: auto;" />
 
 <div style="background-color: #0d1117; padding: 15px; border-radius: 10px; margin-top: 20px; border: 1px solid #30363d;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=Initializing+Analysis+Environment...;Loading+IDA+Pro+v8.3...;Binary+Identified:+Dangel.exe;[Warning]+Ransomware+behavior+detected!;Decrypting+Key+Message...+Success.;UHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzIGFyZSB0b29scyB0aGF0IGNhbiBjcmVhdGUgYW55dGhpbmcsIGJ1dCBjb252ZXJzZWx5LCB0aGV5IGNhbiBhbHNvIGRlc3Ryb3kgYW55dGhpbmcu" alt="Analyst Console" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=Initializing+Analysis+Environment...;Loading+IDA+Pro+v8.3...;Decompiling+Binary...;Sandbox+Environment+Initialized;[WARNING]+Ransomware+Behavior+Detected!;Extracting+Strings+from+Memory...;Anti-VM+Check:+PASSED;Decrypting+Payload...+Success;Analyzing+API+Calls...;Generating+YARA+Rule..." alt="Analyst Console" />
     
-   <p style="margin-top: 5px; font-family: monospace; font-size: 0.7em;">
-      <span style="color: #0d1117;">[ANALYSIS_REPORT] Threat_Level: Critical | Strings: "Anti-VM", "Persistence" | Indicator: 0xDEADC0DE | SHA-256: e3b0c442...</span>
+   <p style="margin-top: 5px; font-family: 'Courier New', monospace; font-size: 0.75em; line-height: 1.6;">
+      <span style="color: #8b949e;">[ANALYSIS_REPORT] Threat_Level: <span style="color: #ff6b6b;">CRITICAL</span> | IOC: <span style="color: #ffd93d;">0xDEADC0DE</span></span><br/>
+      <span style="color: #8b949e;">Strings: "Anti-VM", "Persistence", "ScheduledTask" | Behavior: Keylogger, Screenshot</span><br/>
+      <span style="color: #0d1117; user-select: text; background-color: #0d1117;">SHA-256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</span><br/>
+      <span style="color: #0d1117; user-select: text; background-color: #0d1117;">MD5: d41d8cd98f00b204e9800998ecf8427e | Detection: 47/71 Vendors</span><br/>
+      <span style="color: #0d1117; user-select: text; background-color: #0d1117;">🔍 Easter Egg Found! You are a true analyst. Keep digging deeper...</span>
     </p>
   </div>
 
