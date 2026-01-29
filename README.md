@@ -25,7 +25,7 @@ qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5
 
 **Algorithm:** RSA-2048 with PKCS1_OAEP
 
-**Hint:** The private key is hidden in plain sight. Check the repository root. 🔑
+**Hint:** The private key is embedded in the decryption tool. Use the hidden link below to decrypt it. 🔑
 
 ---
 
@@ -33,7 +33,7 @@ qji8GdiRMAET841F5SkuCy8jFjtZntZANNSLvRxu/uYjlTa3s/8chzOYwFga3wT/JOAmSNLryPdpNyZ5
 
 <!-- 
 🔐 ENCRYPTED LINK:
-==wZulmchh2c9A3c19zdllmdvQXMPtUQBZzMtlXRRpUNPV1dSZkTTdkQJRGbHV0dNJWex8CZvUGbpZ2Lt92YuUGbn92bn5SZ2lmck9yL6MHc0RHa
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQTctT0pjd29PRjJ3WjNZTERrdFBadnlsRHlhTjNZTXcvdmlldz91c3A9c2hhcmluZw==
 -->
 
 **Encryption:** Base64 + Reverse
