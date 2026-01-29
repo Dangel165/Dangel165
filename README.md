@@ -4,7 +4,7 @@
 <div style="background-color: #0d1117; padding: 15px; border-radius: 10px; margin-top: 20px; border: 1px solid #30363d;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=Initializing+Analysis+Environment...;Loading+IDA+Pro+v8.3...;Binary+Identified:+Dangel.exe;[Warning]+Ransomware+behavior+detected!;Decrypting+Key+Message...+Success.;UHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzIGFyZSB0b29scyB0aGF0IGNhbiBjcmVhdGUgYW55dGhpbmcsIGJ1dCBjb252ZXJzZWx5LCB0aGV5IGNhbiBhbHNvIGRlc3Ryb3kgYW55dGhpbmcu" alt="Analyst Console" />
     
-    <p style="color: #0d1117; font-size: 0.7em; margin-top: 5px;">[DEBUG] SHA-256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 | Status: Suspicious</p>
+  <p style="color: #0d1117; font-size: 0.7em; margin-top: 5px;">[DEBUG] SHA-256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 | Status: Suspicious</p>
   </div>
 
   <h2>🛠️ Tech Stack</h2>
