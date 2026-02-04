@@ -17,7 +17,7 @@
 
 ---
 
-## � Encrypted Message
+## 🔒 Encrypted Message
 
 Copy the encrypted message below:
 
@@ -39,7 +39,7 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 
 ---
 
-<h2>�️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
