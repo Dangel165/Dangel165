@@ -260,7 +260,7 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; margin: 0 auto;">
 <tbody>
 <tr style="border-bottom: 1px solid #30363d;">
-<td style="padding: 12px; font-size: 0.9em;"><b style="color: #58a6ff; font-size: 1.0em;">🏴 Key Root</b> (2020.01 ~ 2025.12)<br/><span style="font-size: 0.8em; color: #8b949e;">교육 목적의 레드팀 해킹 툴 제작 및 악성코드 설계/분석 연구</span></td>
+<td style="padding: 12px; font-size: 0.9em;"><b style="color: #58a6ff; font-size: 1.0em;">🏴 Key Root</b> (2020.01 ~ 2025.12)<br/><span style="font-size: 0.8em; color: #8b949e;">교육 목적의 레드팀 해킹 툴 제작 및 악성코드 설계/동작 연구</span></td>
 </tr>
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 12px; font-size: 0.9em;"><b style="color: #58a6ff; font-size: 1.0em;">🚀 메이커 스페이스 창업 동아리</b> (2024.05 ~ 2025.12)<br/><span style="font-size: 0.8em; color: #8b949e;">전주공업고등학교 | 창의적 아이디어 시제품 제작 및 기술 창업 역량 강화 활동</span></td>
