@@ -61,6 +61,7 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <th style="padding: 8px; min-width: 100px; font-size: 0.9em;">Team</th>
 <th style="padding: 8px; min-width: 100px; font-size: 0.9em;">Item</th>
 <th style="padding: 8px; min-width: 80px; font-size: 0.9em;">Result</th>
+<th style="padding: 8px; min-width: 50px; text-align: center; font-size: 0.9em;">News</th>
 <th style="padding: 8px; min-width: 60px; text-align: center; font-size: 0.9em;">Evidence</th>
 </tr>
 </thead>
@@ -71,7 +72,8 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <td style="padding: 8px; font-size: 0.8em;">FUN FUN한 녀석들</td>
 <td style="padding: 8px; color: #58a6ff; font-size: 0.8em;">자율주행 잔디깎기</td>
 <td style="padding: 8px; font-size: 0.8em;"><img src="https://img.shields.io/badge/1st-최우수-FFD700?style=flat-square&logoColor=white"/></td>
-<td style="padding: 8px; text-align: center;"><img src="https://github.com/user-attachments/assets/b8c328f7-c2b0-4b83-9187-3be0d3e8ba66" width="35" style="border-radius: 3px; cursor: pointer;" /></td>
+<td style="padding: 8px; text-align: center;">-</td>
+<td style="padding: 8px; text-align: center;"><img src="https://github.com/user-attachments/assets/b8c328f7-c2b0-4b83-9187-3be0d3e8ba66" width="35" style="border-radius: 3px;" /></td>
 </tr>
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 8px; font-size: 0.8em;">2025.11</td>
@@ -79,7 +81,8 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <td style="padding: 8px; font-size: 0.8em;">JTHS_makes</td>
 <td style="padding: 8px; color: #58a6ff; font-size: 0.8em;">커피 씨앗컵 시뮬레이터</td>
 <td style="padding: 8px; font-size: 0.8em;"><img src="https://img.shields.io/badge/Award-참가상-gray?style=flat-square&logoColor=white"/></td>
-<td style="padding: 8px; text-align: center;"><img src="https://github.com/user-attachments/assets/0fd52b6b-46a8-45a8-bcda-09afb4a63027" width="35" style="border-radius: 3px; cursor: pointer;" /></td>
+<td style="padding: 8px; text-align: center;">-</td>
+<td style="padding: 8px; text-align: center;"><img src="https://github.com/user-attachments/assets/0fd52b6b-46a8-45a8-bcda-09afb4a63027" width="35" style="border-radius: 3px;" /></td>
 </tr>
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 8px; font-size: 0.8em;">2025.10</td>
@@ -88,6 +91,7 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <td style="padding: 8px; color: #58a6ff; font-size: 0.8em;">자율주행 잔디깎기</td>
 <td style="padding: 8px; font-size: 0.8em;"><img src="https://img.shields.io/badge/2nd-우수-C0C0C0?style=flat-square&logoColor=white"/></td>
 <td style="padding: 8px; text-align: center; font-size: 1.2em;"><a href="https://www.eroun.net/news/articleView.html?idxno=65595" style="text-decoration: none;">📰</a></td>
+<td style="padding: 8px; text-align: center;"><img src="https://github.com/user-attachments/assets/1729a376-04b1-489e-a66e-649c65964dc1" width="35" style="border-radius: 3px;" /></td>
 </tr>
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 8px; font-size: 0.8em;">2025</td>
@@ -95,7 +99,8 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <td style="padding: 8px; font-size: 0.8em;">-</td>
 <td style="padding: 8px; color: #8b949e; font-size: 0.8em;">-</td>
 <td style="padding: 8px; font-size: 0.8em;"><img src="https://img.shields.io/badge/Academic-Excellence-58a6ff?style=flat-square&logoColor=white"/></td>
-<td style="padding: 8px; text-align: center;"><img src="https://github.com/user-attachments/assets/cfd532f7-f0a5-417d-877a-7bbdf75428da" width="35" style="border-radius: 3px; cursor: pointer;" /></td>
+<td style="padding: 8px; text-align: center;">-</td>
+<td style="padding: 8px; text-align: center;"><img src="https://github.com/user-attachments/assets/cfd532f7-f0a5-417d-877a-7bbdf75428da" width="35" style="border-radius: 3px;" /></td>
 </tr>
 </tbody>
 </table>
