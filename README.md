@@ -273,7 +273,8 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
   <span style="font-size: 0.8em; color: #8b949e;">교육 목적의 레드팀 해킹 툴 제작 및 악성코드 설계/동작 연구</span>
 </td>
 <td style="padding: 12px; text-align: center; vertical-align: middle;">
-  </td>
+    <img src="https://github.com/user-attachments/assets/e1705494-3a7f-4616-9e2f-9566b29a964f" width="40" style="border-radius: 3px;" alt="Key Root Team 로고" />
+</td>
 </tr>
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
