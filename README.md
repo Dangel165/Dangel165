@@ -269,7 +269,7 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <tbody>
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
-  <b style="color: #58a6ff; font-size: 1.0em;">🏴 Key Root Team</b> (2020.01 ~ 2025.12)<br/>
+  <b style="color: #58a6ff; font-size: 1.0em;">🏴 Key Root Red/Blue Team</b> (2020.01 ~ 2025.12)<br/>
   <span style="font-size: 0.8em; color: #8b949e;">교육 목적의 레드팀 해킹 툴 제작 및 악성코드 설계/동작 연구</span>
 </td>
 <td style="padding: 12px; text-align: center; vertical-align: middle;">
