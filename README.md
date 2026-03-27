@@ -279,11 +279,12 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 </tr>
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
-  <b style="color: #58a6ff; font-size: 1.0em;">🚀 메이커 스페이스 창업 동아리</b> (2024.05 ~ 2025.12)<br/>
-  <span style="font-size: 0.8em; color: #8b949e;">전주공업고등학교 | 창의적 아이디어 시제품 제작 및 기술 창업 역량 강화 활동</span>
+  <b style="color: #58a6ff; font-size: 1.0em;">🚀 메이커 스페이스 창업 동아리</b> (2024.05 ~ 2025.12)<br/>
+  <span style="font-size: 0.8em; color: #8b949e;">전주공업고등학교 | 창의적 아이디어 시제품 제작 및 기술 창업 역량 강화 활동</span>
 </td>
 <td style="padding: 12px; text-align: center; vertical-align: middle;">
-  </td>
+    <img src="https://github.com/user-attachments/assets/6403e2dd-30c6-40aa-8f5b-edf4600d56bd" width="40" style="border-radius: 3px;" alt="메이커 스페이스 로고" />
+</td>
 </tr>
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
