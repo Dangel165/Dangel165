@@ -95,7 +95,7 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <td style="padding: 8px; font-size: 0.8em;">-</td>
 <td style="padding: 8px; color: #8b949e; font-size: 0.8em;">-</td>
 <td style="padding: 8px; font-size: 0.8em;"><img src="https://img.shields.io/badge/Academic-Excellence-58a6ff?style=flat-square&logoColor=white"/></td>
-<td style="padding: 8px; text-align: center;">-</td>
+<td style="padding: 8px; text-align: center;"><img src="https://github.com/user-attachments/assets/cfd532f7-f0a5-417d-877a-7bbdf75428da" width="35" style="border-radius: 3px; cursor: pointer;" /></td>
 </tr>
 </tbody>
 </table>
