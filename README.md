@@ -257,26 +257,42 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <h2>🏢 Organizations</h2>
 
 <div style="overflow-x: auto;">
-<table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; margin: 0 auto;">
+<table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; margin: 0 auto; table-layout: fixed;">
+<colgroup>
+  <col style="width: auto;" />
+  <col style="width: 120px;" /> </colgroup>
 <tbody>
 <tr style="border-bottom: 1px solid #30363d;">
-<td style="padding: 12px; font-size: 0.9em;"><b style="color: #58a6ff; font-size: 1.0em;">🏴 Key Root Team</b> (2020.01 ~ 2025.12)<br/><span style="font-size: 0.8em; color: #8b949e;">교육 목적의 레드팀 해킹 툴 제작 및 악성코드 설계/동작 연구</span></td>
+<td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
+  <b style="color: #58a6ff; font-size: 1.0em;">🏴 Key Root Team</b> (2020.01 ~ 2025.12)<br/>
+  <span style="font-size: 0.8em; color: #8b949e;">교육 목적의 레드팀 해킹 툴 제작 및 악성코드 설계/동작 연구</span>
+</td>
+<td style="padding: 12px; text-align: center; vertical-align: middle;">
+  </td>
 </tr>
 <tr style="border-bottom: 1px solid #30363d;">
-<td style="padding: 12px; font-size: 0.9em;"><b style="color: #58a6ff; font-size: 1.0em;">🚀 메이커 스페이스 창업 동아리</b> (2024.05 ~ 2025.12)<br/><span style="font-size: 0.8em; color: #8b949e;">전주공업고등학교 | 창의적 아이디어 시제품 제작 및 기술 창업 역량 강화 활동</span></td>
+<td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
+  <b style="color: #58a6ff; font-size: 1.0em;">🚀 메이커 스페이스 창업 동아리</b> (2024.05 ~ 2025.12)<br/>
+  <span style="font-size: 0.8em; color: #8b949e;">전주공업고등학교 | 창의적 아이디어 시제품 제작 및 기술 창업 역량 강화 활동</span>
+</td>
+<td style="padding: 12px; text-align: center; vertical-align: middle;">
+  </td>
 </tr>
 <tr style="border-bottom: 1px solid #30363d;">
-<td style="padding: 12px; font-size: 0.9em;"><b style="color: #58a6ff; font-size: 1.0em;">🦾 레인보우로보틱스 산학 협력</b> (2025.03 ~ 2025.11)<br/><span style="font-size: 0.8em; color: #8b949e;">산업용 협동로봇 제어 기술 및 로봇 실무 코딩 교육 이수</span></td>
+<td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
+  <b style="color: #58a6ff; font-size: 1.0em;">🦾 레인보우로보틱스 산학 협력</b> (2025.03 ~ 2025.11)<br/>
+  <span style="font-size: 0.8em; color: #8b949e;">산업용 협동로봇 제어 기술 및 로봇 실무 코딩 교육 이수</span>
+</td>
+<td style="padding: 12px; text-align: center; vertical-align: middle;">
+  </td>
 </tr>
 <tr style="border-bottom: 1px solid #30363d;">
-<td style="padding: 12px; font-size: 0.9em;">
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div>
-    <b style="color: #58a6ff; font-size: 1.0em;">💻 전주교육대학교 영재교육원 수료</b> (2018.03 ~ 2018.10)<br/>
-    <span style="font-size: 0.8em; color: #8b949e;">소프트웨어 영재 과정 | 기초 프로그래밍 및 알고리즘 사고력 함양</span>
-  </div>
-  <img src="https://github.com/user-attachments/assets/90fe415a-c5ab-4912-a33a-acf632fd9a1c" width="100" style="border-radius: 5px; margin-left: 10px;" />
-</div>
+<td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
+  <b style="color: #58a6ff; font-size: 1.0em;">💻 전주교육대학교 영재교육원 수료</b> (2018.03 ~ 2018.10)<br/>
+  <span style="font-size: 0.8em; color: #8b949e;">소프트웨어 영재 과정 | 기초 프로그래밍 및 알고리즘 사고력 함양</span>
+</td>
+<td style="padding: 12px; text-align: center; vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/90fe415a-c5ab-4912-a33a-acf632fd9a1c" width="100" style="border-radius: 5px;" alt="전주교대 영재원" />
 </td>
 </tr>
 </tbody>
