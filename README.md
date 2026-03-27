@@ -269,7 +269,15 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <td style="padding: 12px; font-size: 0.9em;"><b style="color: #58a6ff; font-size: 1.0em;">🦾 레인보우로보틱스 산학 협력</b> (2025.03 ~ 2025.11)<br/><span style="font-size: 0.8em; color: #8b949e;">산업용 협동로봇 제어 기술 및 로봇 실무 코딩 교육 이수</span></td>
 </tr>
 <tr style="border-bottom: 1px solid #30363d;">
-<td style="padding: 12px; font-size: 0.9em;"><b style="color: #58a6ff; font-size: 1.0em;">💻 전주교육대학교 영재교육원 수료</b> (2018.03 ~ 2018.10)<br/><span style="font-size: 0.8em; color: #8b949e;">소프트웨어 영재 과정 | 기초 프로그래밍 및 알고리즘 사고력 함양</span></td>
+<td style="padding: 12px; font-size: 0.9em;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div>
+    <b style="color: #58a6ff; font-size: 1.0em;">💻 전주교육대학교 영재교육원 수료</b> (2018.03 ~ 2018.10)<br/>
+    <span style="font-size: 0.8em; color: #8b949e;">소프트웨어 영재 과정 | 기초 프로그래밍 및 알고리즘 사고력 함양</span>
+  </div>
+  <img src="https://github.com/user-attachments/assets/90fe415a-c5ab-4912-a33a-acf632fd9a1c" width="100" style="border-radius: 5px; margin-left: 10px;" />
+</div>
+</td>
 </tr>
 </tbody>
 </table>
