@@ -270,7 +270,7 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
   <b style="color: #58a6ff; font-size: 1.0em;">🏴 Key Root Red/Blue Team</b> (2020.01 ~ 2025.12)<br/>
-  <span style="font-size: 0.8em; color: #8b949e;">교육 목적의 레드팀 해킹 툴 제작 및 악성코드 설계/동작 연구/교육 목적의 보안프로그램 제작</span>
+  <span style="font-size: 0.8em; color: #8b949e;">교육 목적의 레드팀 해킹 툴 제작 및 악성코드 설계/동작 연구/레드팀 해킹 툴 침해사고 대응 및 탐지 및 방어 체계 연구</span>
 </td>
 <td style="padding: 12px; text-align: center; vertical-align: middle; white-space: nowrap;">
   <img src="https://github.com/user-attachments/assets/e1705494-3a7f-4616-9e2f-9566b29a964f" width="40" style="border-radius: 3px;" alt="Logo 1" />
