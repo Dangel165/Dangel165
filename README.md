@@ -367,6 +367,8 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 </a>
 </div>
 
+![Programmers Badge](https://raw.githubusercontent.com/Dangel165/Programmers_Badge_Generator/main/result/result.svg)
+
 <h2>🔗 Links</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
