@@ -367,29 +367,11 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 </a>
 </div>
 
-<h2>💻 Baekjoon Profile</h2>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-<a href="https://solved.ac/profile/fff20ok">
-<picture>
-  <source media="(max-width: 768px)" srcset="http://mazassumnida.wtf/api/v2/generate_badge?boj=fff20ok">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fff20ok" alt="Solved.ac Badge" />
-</picture>
-</a>
-<a href="https://solved.ac/profile/fff20ok">
-<picture>
-  <source media="(max-width: 768px)" srcset="https://mazandi.herokuapp.com/api?handle=fff20ok&theme=dark">
-  <img src="https://mazandi.herokuapp.com/api?handle=fff20ok&theme=dark" alt="Solved.ac Card" />
-</picture>
-</a>
-</div>
-
 <h2>🔗 Links</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
 <a href="https://blog.naver.com/dangel798"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 <a href="https://dreamhack.io/users/88375"><img src="https://img.shields.io/badge/Dreamhack-FFC107?style=for-the-badge&logo=target&logoColor=black"/></a>
-<a href="https://solved.ac/profile/fff20ok"><img src="https://img.shields.io/badge/Baekjoon-0076BA?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/moonbird6748-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 <a href="https://instagram.com/dangel3190"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
