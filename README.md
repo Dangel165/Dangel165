@@ -368,15 +368,11 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 </div>
 
 <div align="center">
-  <h2> 💻 My Coding Status </h2>
-  
-  <img src="https://raw.githubusercontent.com/Dangel165/Programmers_Badge_Generator/main/result/result.svg" width="400" />
-  
-  <br/>
 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <h2> 💻 My Coding Status </h2>
+
+  <img src="https://raw.githubusercontent.com/Dangel165/Programmers_Badge_Generator/main/result/result.svg" width="450" />
+
 </div>
 
 <h2>🔗 Links</h2>
