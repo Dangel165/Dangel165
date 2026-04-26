@@ -371,7 +371,7 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 
   <h2> 💻 My Coding Status </h2>
 
-  <img src="https://raw.githubusercontent.com/Dangel165/Programmers_Badge_Generator/main/result/result.svg" width="450" />
+  <img src="https://raw.githubusercontent.com/Dangel165/Programmers_Badge_Generator/main/result/result.svg?t=${{ github.event.head_commit.timestamp }}" width="450" />
 
 </div>
 
