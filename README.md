@@ -68,7 +68,7 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <tbody>
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 8px; font-size: 0.8em;">2025.12</td>
-<td style="padding: 8px; font-size: 0.8em;"><b>2025 직업계고 창업아이템 공모전 (전국)</b></td>
+<td style="padding: 8px; font-size: 0.8em;"><b>2025 직업계고 창업아이템 공모전 (호남권)</b></td>
 <td style="padding: 8px; font-size: 0.8em;">FUN FUN한 녀석들</td>
 <td style="padding: 8px; color: #58a6ff; font-size: 0.8em;">자율주행 잔디깎기</td>
 <td style="padding: 8px; font-size: 0.8em;"><img src="https://img.shields.io/badge/1st-최우수-FFD700?style=flat-square&logoColor=white"/></td>
