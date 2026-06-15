@@ -262,15 +262,22 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <h2>🏫 School</h2>
 
 <div style="overflow-x: auto;">
-<table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; margin: 0 auto;">
+<table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; margin: 0 auto; table-layout: fixed;">
+<colgroup>
+  <col style="width: auto;" />
+  <col style="width: 100px;" />
+</colgroup>
 <tbody>
 
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
   <b style="color: #58a6ff; font-size: 1.0em;">🎓 Woosuk University</b><br/>
   <span style="font-size: 0.8em; color: #8b949e;">
-    Department of Information Security | March 2026 – Present
+    Department of Information Security | 2026.03 ~ Present
   </span>
+</td>
+<td style="padding: 12px; text-align: center; vertical-align: middle;">
+  🎓
 </td>
 </tr>
 
@@ -278,17 +285,23 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
   <b style="color: #58a6ff; font-size: 1.0em;">🏫 Jeonju Industrial High School</b><br/>
   <span style="font-size: 0.8em; color: #8b949e;">
-    Electronics Department | March 2023 – February 2026
+    Electronics Department | 2023.03 ~ 2026.02
   </span>
+</td>
+<td style="padding: 12px; text-align: center; vertical-align: middle;">
+  🏫
 </td>
 </tr>
 
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
-  <b style="color: #58a6ff; font-size: 1.0em;">💻 Jeonju National University of Education Gifted Education Center</b><br/>
+  <b style="color: #58a6ff; font-size: 1.0em;">💻 전주교육대학교 영재교육원</b><br/>
   <span style="font-size: 0.8em; color: #8b949e;">
-    Software Gifted Program | March 2018 – October 2018
+    소프트웨어 영재 과정 | 2018.03 ~ 2018.10
   </span>
+</td>
+<td style="padding: 12px; text-align: center; vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/90fe415a-c5ab-4912-a33a-acf632fd9a1c" width="40" style="border-radius: 3px;" alt="전주교대 영재원" />
 </td>
 </tr>
 
@@ -309,13 +322,13 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
-  <b style="color: #58a6ff; font-size: 1.0em;">🚀 Maker Space Startup Club</b> (2024.05 ~ 2025.12)<br/>
+  <b style="color: #58a6ff; font-size: 1.0em;">🚀 메이커 스페이스 창업 동아리</b> (2024.05 ~ 2025.12)<br/>
   <span style="font-size: 0.8em; color: #8b949e;">
-    Jeonju Industrial High School | Prototype development, startup activities, and entrepreneurship projects
+    전주공업고등학교 | 창의적 아이디어 시제품 제작 및 기술 창업 역량 강화 활동
   </span>
 </td>
 <td style="padding: 12px; text-align: center; vertical-align: middle;">
-  <img src="https://github.com/user-attachments/assets/6403e2dd-30c6-40aa-8f5b-edf4600d56bd" width="40" style="border-radius: 3px;" alt="Maker Space Logo" />
+  <img src="https://github.com/user-attachments/assets/6403e2dd-30c6-40aa-8f5b-edf4600d56bd" width="40" style="border-radius: 3px;" alt="메이커 스페이스 로고" />
 </td>
 </tr>
 
@@ -323,27 +336,39 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 </table>
 </div>
 
+
 <h2>🏢 Organizations</h2>
 
 <div style="overflow-x: auto;">
-<table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; margin: 0 auto;">
+<table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; margin: 0 auto; table-layout: fixed;">
+<colgroup>
+  <col style="width: auto;" />
+  <col style="width: 100px;" />
+</colgroup>
 <tbody>
 
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
   <b style="color: #58a6ff; font-size: 1.0em;">🏴 Key Root Red/Blue Team</b> (2020.01 ~ 2025.12)<br/>
   <span style="font-size: 0.8em; color: #8b949e;">
-    Educational red team hacking tool development and malware behavior research | Blue team incident response, detection, and defense research
+    교육 목적의 레드팀 해킹 도구 제작 및 악성코드 설계·동작 연구 | 블루팀 침해사고 대응, 탐지 및 방어 체계 연구
   </span>
+</td>
+<td style="padding: 12px; text-align: center; vertical-align: middle; white-space: nowrap;">
+  <img src="https://github.com/user-attachments/assets/e1705494-3a7f-4616-9e2f-9566b29a964f" width="40" style="border-radius: 3px;" alt="Logo 1" />
+  <img src="https://github.com/user-attachments/assets/7a2d0174-4dcb-4434-977d-13bd1c256964" width="40" style="border-radius: 3px; margin-left: 5px;" alt="Logo 2" />
 </td>
 </tr>
 
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
-  <b style="color: #58a6ff; font-size: 1.0em;">🦾 Rainbow Robotics Industry-Academic Cooperation</b> (2025.03 ~ 2025.11)<br/>
+  <b style="color: #58a6ff; font-size: 1.0em;">🦾 레인보우로보틱스 산학 협력</b> (2025.03 ~ 2025.11)<br/>
   <span style="font-size: 0.8em; color: #8b949e;">
-    Industrial collaborative robot control technology and practical robot coding training
+    산업용 협동로봇 제어 기술 및 로봇 실무 코딩 교육 이수
   </span>
+</td>
+<td style="padding: 12px; text-align: center; vertical-align: middle;">
+  🦾
 </td>
 </tr>
 
