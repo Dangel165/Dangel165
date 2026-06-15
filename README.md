@@ -352,6 +352,21 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
+  <b style="color: #58a6ff; font-size: 1.0em;">💎 rubiyaLab Team</b> (2026.05 ~ 현재)<br/>
+  <span style="font-size: 0.8em; color: #8b949e;">
+    CTF 팀 | 국내·해외 CTF 대회 참가
+  </span>
+</td>
+<td style="padding: 12px; text-align: center; vertical-align: middle;">
+  <a href="https://rubiyalab.team/" target="_blank"
+     style="text-decoration:none;font-size:28px;">
+    🌐
+  </a>
+</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363d;">
+<td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
 <b style="color: #58a6ff;">🏴 Key Root Red/Blue Team</b> (2020.01 ~ 2025.12)<br/>
 <span style="font-size: 0.8em; color: #8b949e;">교육 목적의 레드팀 해킹 도구 제작 및 악성코드 설계·동작 연구 | 블루팀 침해사고 대응, 탐지 및 방어 체계 연구</span>
 </td>
