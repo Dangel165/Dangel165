@@ -259,7 +259,7 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 </table>
 </div>
 
-<h2>🎓 Education</h2>
+<h2>🏫 School</h2>
 
 <div style="overflow-x: auto;">
 <table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; margin: 0 auto;">
