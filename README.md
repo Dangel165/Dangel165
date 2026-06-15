@@ -279,10 +279,18 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 </td>
 </tr>
 
-<tr>
+<tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
-<b style="color: #58a6ff;">💻 전주교육대학교 영재교육원</b><br/>
-<span style="font-size: 0.8em; color: #8b949e;">소프트웨어 영재 과정 | 2018.03 ~ 2018.10</span>
+  <b style="color: #58a6ff; font-size: 1.0em;">💻 전주교육대학교 영재교육원</b><br/>
+  <span style="font-size: 0.8em; color: #8b949e;">
+    소프트웨어 영재 과정 | 2018.03 ~ 2018.10
+  </span>
+</td>
+<td style="padding: 12px; text-align: center; vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/90fe415a-c5ab-4912-a33a-acf632fd9a1c"
+       width="40"
+       style="border-radius: 3px;"
+       alt="전주교대 영재교육원" />
 </td>
 </tr>
 
