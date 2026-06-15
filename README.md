@@ -259,6 +259,34 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 </table>
 </div>
 
+<h2>🎓 Education</h2>
+
+<div style="overflow-x: auto;">
+<table style="width: 100%; max-width: 850px; border-collapse: collapse; text-align: left; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; margin: 0 auto;">
+<tbody>
+
+<tr style="border-bottom: 1px solid #30363d;">
+<td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
+  <b style="color: #58a6ff; font-size: 1.0em;">🎓 Department of Information Security, Woosuk University</b><br/>
+  <span style="font-size: 0.8em; color: #8b949e;">
+    Bachelor of Information Security | March 2026 – Present
+  </span>
+</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363d;">
+<td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
+  <b style="color: #58a6ff; font-size: 1.0em;">🏫 Jeonju Industrial High School</b><br/>
+  <span style="font-size: 0.8em; color: #8b949e;">
+    March 2023 – February 2026
+  </span>
+</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+
 <h2>🏢 Organizations</h2>
 
 <div style="overflow-x: auto;">
