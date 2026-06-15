@@ -278,14 +278,10 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
   <b style="color: #58a6ff; font-size: 1.0em;">🏫 Jeonju Industrial High School</b><br/>
   <span style="font-size: 0.8em; color: #8b949e;">
-    March 2023 – February 2026
+    Electronics Department | March 2023 – February 2026
   </span>
 </td>
 </tr>
-
-</tbody>
-</table>
-</div>
 
 </tbody>
 </table>
