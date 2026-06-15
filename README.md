@@ -321,13 +321,17 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQnhUc2ltUGg3N1RtRVl2M0xSQTIwSG5YbDY5
 
 <tr style="border-bottom: 1px solid #30363d;">
 <td style="padding: 12px; font-size: 0.9em; vertical-align: middle;">
-  <b style="color: #58a6ff; font-size: 1.0em;">🛡️ APS (정보보안 동아리)</b> (2026.03 ~ 현재)<br/>
+  <b style="color: #58a6ff; font-size: 1.0em;">📄 APS (정보보안 동아리)</b> (2026.03 ~ 현재)<br/>
   <span style="font-size: 0.8em; color: #8b949e;">
     우석대학교 | 정보보안 기술 학습 (KUCIS) 동아리
   </span>
 </td>
 <td style="padding: 12px; text-align: center; vertical-align: middle;">
-  🛡️
+  <a href="https://is.woosuk.ac.kr/2015/inner.php?sMenu=A7000"
+     target="_blank"
+     style="text-decoration:none;font-size:28px;">
+    📄
+  </a>
 </td>
 </tr>
 
